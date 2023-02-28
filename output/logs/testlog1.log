@@ -1,0 +1,569 @@
+2023-02-18 06:51:43,037 [main] INFO logger_file - User Click on Sign in Button
+2023-02-18 06:57:05,909 [main] INFO logger_file - User Click on Sign in Button
+2023-02-18 07:01:33,724 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:01:34,045 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 07:01:35,181 [main] INFO logger_file - User enter email and password
+2023-02-18 07:01:37,309 [main] INFO logger_file - User click on lognin Button
+2023-02-18 07:04:25,662 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:04:26,109 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 07:04:27,342 [main] INFO logger_file - User enter email and password
+2023-02-18 07:04:29,323 [main] INFO logger_file - User click on lognin Button
+2023-02-18 07:08:35,539 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:08:36,039 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 07:08:36,940 [main] INFO logger_file - User enter email and password
+2023-02-18 07:08:39,143 [main] INFO logger_file - User click on lognin Button
+2023-02-18 07:10:50,380 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:10:50,837 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 07:10:52,712 [main] INFO logger_file - User enter email and password
+2023-02-18 07:10:54,330 [main] INFO logger_file - User click on lognin Button
+2023-02-18 07:11:58,150 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:11:58,613 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 07:25:57,228 [main] INFO logger_file - React App is equal to React App
+2023-02-18 07:25:57,652 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 12:29:23,473 [main] INFO logger_file - React App is equal to React App
+2023-02-18 12:29:23,947 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 12:29:28,266 [main] INFO logger_file - User send the follow texts
+2023-02-18 12:29:28,539 [main] INFO logger_file - user click on signup button
+2023-02-18 12:34:43,694 [main] INFO logger_file - React App is equal to React App
+2023-02-18 12:34:44,154 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 12:34:48,595 [main] INFO logger_file - User send the follow texts
+2023-02-18 12:34:49,045 [main] INFO logger_file - user click on signup button
+2023-02-18 12:34:49,875 [main] INFO logger_file - user should see teklogo
+2023-02-18 16:47:19,960 [main] INFO logger_file - React App is equal to React App
+2023-02-18 16:47:20,391 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 16:47:21,664 [main] INFO logger_file - User enter email and password
+2023-02-18 16:48:14,456 [main] INFO logger_file - React App is equal to React App
+2023-02-18 16:48:14,954 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 16:48:16,215 [main] INFO logger_file - User enter email and password
+2023-02-18 16:48:17,877 [main] INFO logger_file - User click on lognin Button
+2023-02-18 16:48:19,906 [main] INFO logger_file - User Click On Account Option
+2023-02-18 16:50:41,845 [main] INFO logger_file - React App is equal to React App
+2023-02-18 16:50:42,347 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 16:50:44,187 [main] INFO logger_file - User enter email and password
+2023-02-18 16:50:45,903 [main] INFO logger_file - User click on lognin Button
+2023-02-18 16:50:47,637 [main] INFO logger_file - User Click On Account Option
+2023-02-18 16:50:48,177 [main] INFO logger_file - User Update Name on Account
+2023-02-18 16:50:48,602 [main] INFO logger_file - User Click On Update Button
+2023-02-18 16:50:48,632 [main] INFO logger_file - User Profile Information Should Be Updated
+2023-02-18 17:24:38,017 [main] INFO logger_file - React App is equal to React App
+2023-02-18 17:24:38,380 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 17:24:40,122 [main] INFO logger_file - User enter email and password
+2023-02-18 17:24:41,682 [main] INFO logger_file - User click on lognin Button
+2023-02-18 17:24:42,758 [main] INFO logger_file - User Click On Account Option
+2023-02-18 17:24:43,572 [main] INFO logger_file - User Click On Account Option
+2023-02-18 17:55:45,015 [main] INFO logger_file - React App is equal to React App
+2023-02-18 17:55:45,362 [main] INFO logger_file - User clicked on sign in button
+2023-02-18 17:55:47,106 [main] INFO logger_file - User enter email and password
+2023-02-18 17:55:48,732 [main] INFO logger_file - User click on lognin Button
+2023-02-18 17:55:50,720 [main] INFO logger_file - User Click On Account Option
+2023-02-18 17:55:51,265 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:12:01,862 [main] INFO logger_file - React App is equal to React App
+2023-02-19 07:12:02,336 [main] INFO logger_file - User clicked on sign in button
+2023-02-19 07:12:03,188 [main] INFO logger_file - User enter email and password
+2023-02-19 07:12:04,807 [main] INFO logger_file - User click on lognin Button
+2023-02-19 07:12:07,108 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:12:07,222 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:17:11,256 [main] INFO logger_file - React App is equal to React App
+2023-02-19 07:17:11,737 [main] INFO logger_file - User clicked on sign in button
+2023-02-19 07:17:13,560 [main] INFO logger_file - User enter email and password
+2023-02-19 07:17:15,124 [main] INFO logger_file - User click on lognin Button
+2023-02-19 07:17:16,774 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:17:16,901 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:17:17,674 [main] INFO logger_file - User entered the below information
+2023-02-19 07:17:17,742 [main] INFO logger_file - User Click On Change Password Button
+2023-02-19 07:18:50,139 [main] INFO logger_file - React App is equal to React App
+2023-02-19 07:18:50,597 [main] INFO logger_file - User clicked on sign in button
+2023-02-19 07:18:51,768 [main] INFO logger_file - User enter email and password
+2023-02-19 07:18:53,625 [main] INFO logger_file - User click on lognin Button
+2023-02-19 07:18:55,232 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:18:55,309 [main] INFO logger_file - User Click On Account Option
+2023-02-19 07:18:56,283 [main] INFO logger_file - User entered the below information
+2023-02-19 07:18:56,350 [main] INFO logger_file - User Click On Change Password Button
+2023-02-19 07:18:57,588 [main] INFO logger_file - password changed
+2023-02-19 07:23:52,217 [main] INFO logger_file - React App is equal to React App
+2023-02-19 07:23:52,642 [main] INFO logger_file - User clicked on sign in button
+2023-02-19 07:23:54,430 [main] INFO logger_file - User enter email and password
+2023-02-19 07:23:56,137 [main] INFO logger_file - User click on lognin Button
+2023-02-21 13:36:27,686 [main] INFO logger_file - React App is equal to React App
+2023-02-21 13:36:28,228 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 13:36:29,892 [main] INFO logger_file - User enter email and password
+2023-02-21 13:36:31,851 [main] INFO logger_file - User click on lognin Button
+2023-02-21 15:38:02,963 [main] INFO logger_file - React App is equal to React App
+2023-02-21 15:38:03,394 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 15:38:05,203 [main] INFO logger_file - User enter email and password
+2023-02-21 15:38:06,859 [main] INFO logger_file - User click on lognin Button
+2023-02-21 15:53:15,771 [main] INFO logger_file - React App is equal to React App
+2023-02-21 15:53:16,239 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 15:53:18,352 [main] INFO logger_file - User enter email and password
+2023-02-21 15:53:19,729 [main] INFO logger_file - User click on lognin Button
+2023-02-21 15:54:38,817 [main] INFO logger_file - React App is equal to React App
+2023-02-21 15:54:39,295 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 15:54:40,705 [main] INFO logger_file - User enter email and password
+2023-02-21 15:54:42,355 [main] INFO logger_file - User click on lognin Button
+2023-02-21 15:56:16,324 [main] INFO logger_file - React App is equal to React App
+2023-02-21 15:56:16,806 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 15:56:18,148 [main] INFO logger_file - User enter email and password
+2023-02-21 15:56:19,747 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:04:59,023 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:04:59,516 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:05:01,190 [main] INFO logger_file - User enter email and password
+2023-02-21 16:05:02,893 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:08:32,277 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:08:32,693 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:08:34,348 [main] INFO logger_file - User enter email and password
+2023-02-21 16:08:35,896 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:11:54,291 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:11:54,712 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:11:56,782 [main] INFO logger_file - User enter email and password
+2023-02-21 16:11:58,020 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:18:19,254 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:18:19,712 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:18:21,114 [main] INFO logger_file - User enter email and password
+2023-02-21 16:18:23,025 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:22:37,373 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:22:37,687 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:22:39,530 [main] INFO logger_file - User enter email and password
+2023-02-21 16:22:40,854 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:28:29,721 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:28:30,041 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:28:31,715 [main] INFO logger_file - User enter email and password
+2023-02-21 16:28:33,667 [main] INFO logger_file - User enter email and password
+2023-02-21 16:29:46,772 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:29:47,292 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:29:49,470 [main] INFO logger_file - User enter email and password
+2023-02-21 16:29:50,954 [main] INFO logger_file - User enter email and password
+2023-02-21 16:31:29,140 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:31:29,605 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:31:31,480 [main] INFO logger_file - User enter email and password
+2023-02-21 16:31:32,979 [main] INFO logger_file - User enter email and password
+2023-02-21 16:35:58,967 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:35:59,285 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:36:00,906 [main] INFO logger_file - User enter email and password
+2023-02-21 16:36:02,612 [main] INFO logger_file - User enter email and password
+2023-02-21 16:55:03,935 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:55:04,437 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:55:05,985 [main] INFO logger_file - User enter email and password
+2023-02-21 16:55:07,864 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:55:08,506 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 16:59:26,469 [main] INFO logger_file - React App is equal to React App
+2023-02-21 16:59:26,942 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 16:59:28,140 [main] INFO logger_file - User enter email and password
+2023-02-21 16:59:30,099 [main] INFO logger_file - User click on lognin Button
+2023-02-21 16:59:30,772 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:04:17,558 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:04:18,033 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:04:19,667 [main] INFO logger_file - User enter email and password
+2023-02-21 17:04:21,619 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:04:22,972 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:05:57,764 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:05:58,487 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:05:58,614 [main] INFO logger_file - User Click On Creat New Account
+2023-02-21 17:06:03,525 [main] INFO logger_file - User send the follow texts
+2023-02-21 17:06:03,746 [main] INFO logger_file - user click on signup button
+2023-02-21 17:06:30,833 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:06:31,282 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:06:31,405 [main] INFO logger_file - User Click On Creat New Account
+2023-02-21 17:06:36,015 [main] INFO logger_file - User send the follow texts
+2023-02-21 17:06:36,269 [main] INFO logger_file - user click on signup button
+2023-02-21 17:06:37,113 [main] INFO logger_file - user should see teklogo
+2023-02-21 17:36:43,495 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:36:43,973 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:36:46,748 [main] INFO logger_file - User enter email and password
+2023-02-21 17:36:47,403 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:36:48,002 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:36:49,311 [main] INFO logger_file - User Click On Account Option
+2023-02-21 17:36:49,430 [main] INFO logger_file - User Click On Account Option
+2023-02-21 17:36:49,959 [main] INFO logger_file - User Update Name on Account
+2023-02-21 17:36:50,058 [main] INFO logger_file - User Click On Update Button
+2023-02-21 17:36:50,074 [main] INFO logger_file - User Profile Information Should Be Updated
+2023-02-21 17:46:08,821 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:46:09,227 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:46:10,730 [main] INFO logger_file - User enter email and password
+2023-02-21 17:46:12,412 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:46:13,196 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:46:14,295 [main] INFO logger_file - User Click On Account Option
+2023-02-21 17:46:14,663 [main] INFO logger_file - User Click On Account Option
+2023-02-21 17:46:15,340 [main] INFO logger_file - User entered the below information
+2023-02-21 17:46:15,401 [main] INFO logger_file - User Click On Change Password Button
+2023-02-21 17:46:16,885 [main] INFO logger_file - password changed
+2023-02-21 17:51:09,647 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:51:10,088 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:51:11,618 [main] INFO logger_file - User enter email and password
+2023-02-21 17:51:13,352 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:51:53,939 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:51:54,380 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:51:55,875 [main] INFO logger_file - User enter email and password
+2023-02-21 17:51:57,348 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:51:58,001 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:51:59,388 [main] INFO logger_file - User Click On Account Option
+2023-02-21 17:54:06,021 [main] INFO logger_file - React App is equal to React App
+2023-02-21 17:54:06,433 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 17:54:08,198 [main] INFO logger_file - User enter email and password
+2023-02-21 17:54:09,783 [main] INFO logger_file - User click on lognin Button
+2023-02-21 17:54:10,426 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 17:54:11,751 [main] INFO logger_file - User Click On Account Option
+2023-02-21 18:00:41,567 [main] INFO logger_file - React App is equal to React App
+2023-02-21 18:00:42,040 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 18:00:43,602 [main] INFO logger_file - User enter email and password
+2023-02-21 18:00:45,136 [main] INFO logger_file - User click on lognin Button
+2023-02-21 18:00:45,853 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 18:00:47,082 [main] INFO logger_file - User Click On Account Option
+2023-02-21 18:02:00,662 [main] INFO logger_file - React App is equal to React App
+2023-02-21 18:02:01,084 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 18:02:02,769 [main] INFO logger_file - User enter email and password
+2023-02-21 18:02:04,384 [main] INFO logger_file - User click on lognin Button
+2023-02-21 18:02:05,810 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 18:02:06,541 [main] INFO logger_file - User Click On Account Option
+2023-02-21 21:59:59,604 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:00:00,093 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:00:01,440 [main] INFO logger_file - User enter email and password
+2023-02-21 22:00:03,290 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:00:05,205 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:00:05,756 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:03:03,944 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:03:04,375 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:03:06,083 [main] INFO logger_file - User enter email and password
+2023-02-21 22:03:07,769 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:03:08,439 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:03:09,620 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:06:19,650 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:06:20,058 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:06:21,702 [main] INFO logger_file - User enter email and password
+2023-02-21 22:06:23,404 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:06:23,995 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:06:25,197 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:12:51,229 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:12:51,689 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:12:53,139 [main] INFO logger_file - User enter email and password
+2023-02-21 22:12:54,614 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:12:55,230 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:12:56,419 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:13:44,236 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:13:44,664 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:13:46,868 [main] INFO logger_file - User enter email and password
+2023-02-21 22:13:48,084 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:13:48,725 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:13:50,082 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:13:51,096 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:13:51,180 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:16:24,251 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:16:24,687 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:16:26,129 [main] INFO logger_file - User enter email and password
+2023-02-21 22:16:28,105 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:16:28,723 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:16:30,052 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:16:31,111 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:16:31,187 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:17:22,307 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:17:22,729 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:17:24,385 [main] INFO logger_file - User enter email and password
+2023-02-21 22:17:26,172 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:17:26,771 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:17:28,063 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:17:29,117 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:17:29,244 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:19:39,702 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:19:40,235 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:19:43,027 [main] INFO logger_file - User enter email and password
+2023-02-21 22:19:43,771 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:19:44,431 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:19:45,779 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:19:46,910 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:19:46,986 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:20:15,921 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:20:16,399 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:20:19,141 [main] INFO logger_file - User enter email and password
+2023-02-21 22:20:19,893 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:20:20,508 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:20:21,793 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:20:22,821 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:20:22,897 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:26:31,525 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:26:31,969 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:26:33,238 [main] INFO logger_file - User enter email and password
+2023-02-21 22:26:35,345 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:26:36,069 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:26:37,308 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:26:37,465 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:26:38,280 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:26:38,451 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:32:04,721 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:32:05,155 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:32:06,597 [main] INFO logger_file - User enter email and password
+2023-02-21 22:32:08,428 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:32:09,053 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:32:10,320 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:32:10,478 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:32:11,393 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:32:11,460 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:32:30,886 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:32:31,298 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:32:33,030 [main] INFO logger_file - User enter email and password
+2023-02-21 22:32:34,724 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:32:35,501 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:32:36,946 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:32:37,176 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:32:38,147 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:32:38,233 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:35:01,700 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:35:02,019 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:35:04,101 [main] INFO logger_file - User enter email and password
+2023-02-21 22:35:05,231 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:35:05,885 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:35:07,080 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:35:07,380 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:35:08,204 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:35:08,388 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:36:04,147 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:36:04,567 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:36:06,241 [main] INFO logger_file - User enter email and password
+2023-02-21 22:36:08,006 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:36:08,650 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:36:09,994 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:36:10,191 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:36:11,190 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:36:11,272 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:37:23,931 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:37:24,378 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:37:25,947 [main] INFO logger_file - User enter email and password
+2023-02-21 22:37:27,496 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:38:06,910 [main] INFO logger_file - React App is equal to React App
+2023-02-21 22:38:07,325 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 22:38:08,992 [main] INFO logger_file - User enter email and password
+2023-02-21 22:38:10,706 [main] INFO logger_file - User click on lognin Button
+2023-02-21 22:38:11,339 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 22:38:12,697 [main] INFO logger_file - User Click On Account Option
+2023-02-21 22:38:12,912 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 22:38:13,913 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 22:38:13,977 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 22:38:14,957 [main] INFO logger_file - Payment Method added Successfully
+2023-02-21 23:15:06,343 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:15:06,675 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:15:08,270 [main] INFO logger_file - User enter email and password
+2023-02-21 23:15:09,834 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:15:10,823 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:15:11,966 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:15:12,355 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 23:15:13,206 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 23:15:13,268 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 23:15:44,194 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:15:44,611 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:15:46,160 [main] INFO logger_file - User enter email and password
+2023-02-21 23:15:47,943 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:15:48,572 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:15:49,856 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:15:50,003 [main] INFO logger_file - User click on Add Payment Link
+2023-02-21 23:15:50,934 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-21 23:15:51,002 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-21 23:15:52,008 [main] INFO logger_file - Payment Method added Successfully
+2023-02-21 23:16:40,594 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:16:40,926 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:16:43,287 [main] INFO logger_file - User enter email and password
+2023-02-21 23:16:44,097 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:16:45,116 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:16:46,383 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:16:46,627 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:17:53,615 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:17:54,052 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:17:55,575 [main] INFO logger_file - User enter email and password
+2023-02-21 23:17:57,203 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:17:57,789 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:17:59,089 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:17:59,320 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:25:50,193 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:25:50,541 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:25:52,268 [main] INFO logger_file - User enter email and password
+2023-02-21 23:25:53,764 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:25:54,348 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:25:55,646 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:25:55,937 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:31:42,483 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:31:42,923 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:31:44,324 [main] INFO logger_file - User enter email and password
+2023-02-21 23:31:45,908 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:31:46,543 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:31:47,769 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:31:48,149 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:31:48,332 [main] INFO logger_file - User Click on Edit Link
+2023-02-21 23:31:49,530 [main] INFO logger_file - user Edit Debit or Credit Card Information
+2023-02-21 23:31:49,703 [main] INFO logger_file - User Click On Update Your Card Button
+2023-02-21 23:33:48,020 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:33:48,460 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:33:49,801 [main] INFO logger_file - User enter email and password
+2023-02-21 23:33:51,173 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:33:52,029 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:33:53,402 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:33:53,566 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:33:53,762 [main] INFO logger_file - User Click on Edit Link
+2023-02-21 23:33:54,957 [main] INFO logger_file - user Edit Debit or Credit Card Information
+2023-02-21 23:33:55,033 [main] INFO logger_file - User Click On Update Your Card Button
+2023-02-21 23:36:03,424 [main] INFO logger_file - React App is equal to React App
+2023-02-21 23:36:03,840 [main] INFO logger_file - User clicked on sign in button
+2023-02-21 23:36:06,239 [main] INFO logger_file - User enter email and password
+2023-02-21 23:36:07,353 [main] INFO logger_file - User click on lognin Button
+2023-02-21 23:36:07,991 [main] INFO logger_file - user should be logged in into Account
+2023-02-21 23:36:09,350 [main] INFO logger_file - User Click On Account Option
+2023-02-21 23:36:09,513 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-21 23:36:09,643 [main] INFO logger_file - User Click on Edit Link
+2023-02-21 23:36:10,647 [main] INFO logger_file - user Edit Debit or Credit Card Information
+2023-02-21 23:36:10,880 [main] INFO logger_file - User Click On Update Your Card Button
+2023-02-22 06:32:12,644 [main] INFO logger_file - React App is equal to React App
+2023-02-22 06:32:12,986 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 06:32:14,417 [main] INFO logger_file - User enter email and password
+2023-02-22 06:32:16,218 [main] INFO logger_file - User click on lognin Button
+2023-02-22 06:32:16,815 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 06:32:17,587 [main] INFO logger_file - User Click On Account Option
+2023-02-22 06:32:18,566 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-22 06:32:18,783 [main] INFO logger_file - User Click on Edit Link
+2023-02-22 06:32:19,961 [main] INFO logger_file - user Edit Debit or Credit Card Information
+2023-02-22 06:32:20,131 [main] INFO logger_file - User Click On Update Your Card Button
+2023-02-22 06:43:11,339 [main] INFO logger_file - React App is equal to React App
+2023-02-22 06:43:11,695 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 06:43:13,000 [main] INFO logger_file - User enter email and password
+2023-02-22 06:43:15,069 [main] INFO logger_file - User click on lognin Button
+2023-02-22 06:43:15,716 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 06:43:16,426 [main] INFO logger_file - User Click On Account Option
+2023-02-22 06:43:17,407 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-22 06:43:17,603 [main] INFO logger_file - User Click on Edit Link
+2023-02-22 06:43:18,658 [main] INFO logger_file - user Edit Debit or Credit Card Information
+2023-02-22 06:43:18,810 [main] INFO logger_file - User Click On Update Your Card Button
+2023-02-22 07:12:46,334 [main] INFO logger_file - React App is equal to React App
+2023-02-22 07:12:46,700 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 07:12:48,537 [main] INFO logger_file - User enter email and password
+2023-02-22 07:12:49,933 [main] INFO logger_file - User click on lognin Button
+2023-02-22 07:12:50,616 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 07:12:51,955 [main] INFO logger_file - User Click On Account Option
+2023-02-22 07:12:52,085 [main] INFO logger_file - User click on Add Payment Link
+2023-02-22 07:12:53,034 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-22 07:12:53,156 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-22 07:12:54,249 [main] INFO logger_file - Payment Method added Successfully
+2023-02-22 07:13:31,845 [main] INFO logger_file - React App is equal to React App
+2023-02-22 07:13:32,281 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 07:13:34,088 [main] INFO logger_file - User enter email and password
+2023-02-22 07:13:35,745 [main] INFO logger_file - User click on lognin Button
+2023-02-22 07:13:36,353 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 07:13:37,640 [main] INFO logger_file - User Click On Account Option
+2023-02-22 07:13:37,804 [main] INFO logger_file - User Click On Account Option
+2023-02-22 07:20:42,472 [main] INFO logger_file - React App is equal to React App
+2023-02-22 07:20:42,941 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 07:20:44,502 [main] INFO logger_file - User enter email and password
+2023-02-22 07:20:46,212 [main] INFO logger_file - User click on lognin Button
+2023-02-22 07:20:46,886 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 07:20:48,238 [main] INFO logger_file - User Click On Account Option
+2023-02-22 07:20:48,338 [main] INFO logger_file - User Click On Account Option
+2023-02-22 07:20:48,425 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-22 07:20:48,511 [main] INFO logger_file - User click on remove option
+2023-02-22 07:20:48,528 [main] INFO logger_file - payment details should be removed
+2023-02-22 08:05:45,656 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:05:46,054 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:05:47,678 [main] INFO logger_file - User enter email and password
+2023-02-22 08:05:49,335 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:05:49,978 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:05:51,271 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:05:51,667 [main] INFO logger_file - user click on add address option
+2023-02-22 08:05:53,417 [main] INFO logger_file - user fill new address form with below information
+2023-02-22 08:05:53,578 [main] INFO logger_file - user click on add your address button
+2023-02-22 08:08:14,548 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:08:14,983 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:08:17,137 [main] INFO logger_file - User enter email and password
+2023-02-22 08:08:18,425 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:08:19,045 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:08:20,438 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:08:20,757 [main] INFO logger_file - user click on add address option
+2023-02-22 08:08:22,412 [main] INFO logger_file - user fill new address form with below information
+2023-02-22 08:08:22,558 [main] INFO logger_file - user click on add your address button
+2023-02-22 08:09:05,258 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:09:05,737 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:09:07,808 [main] INFO logger_file - User enter email and password
+2023-02-22 08:09:09,151 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:09:09,766 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:09:11,021 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:09:11,337 [main] INFO logger_file - user click on add address option
+2023-02-22 08:09:13,044 [main] INFO logger_file - user fill new address form with below information
+2023-02-22 08:09:13,191 [main] INFO logger_file - user click on add your address button
+2023-02-22 08:13:29,154 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:13:29,566 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:13:31,314 [main] INFO logger_file - User enter email and password
+2023-02-22 08:13:32,970 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:13:33,591 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:13:35,027 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:13:35,337 [main] INFO logger_file - user click on add address option
+2023-02-22 08:13:37,114 [main] INFO logger_file - user fill new address form with below information
+2023-02-22 08:13:37,258 [main] INFO logger_file - user click on add your address button
+2023-02-22 08:16:55,987 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:16:56,430 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:16:58,540 [main] INFO logger_file - User enter email and password
+2023-02-22 08:16:59,883 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:17:00,566 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:17:01,901 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:17:02,224 [main] INFO logger_file - user click on add address option
+2023-02-22 08:17:03,995 [main] INFO logger_file - user fill new address form with below information
+2023-02-22 08:17:04,136 [main] INFO logger_file - user click on add your address button
+2023-02-22 08:51:19,986 [main] INFO logger_file - React App is equal to React App
+2023-02-22 08:51:20,452 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 08:51:22,317 [main] INFO logger_file - User enter email and password
+2023-02-22 08:51:23,967 [main] INFO logger_file - User click on lognin Button
+2023-02-22 08:51:24,578 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 08:51:25,915 [main] INFO logger_file - User Click On Account Option
+2023-02-22 08:51:26,297 [main] INFO logger_file - user click on edit address option
+2023-02-22 10:47:22,592 [main] INFO logger_file - React App is equal to React App
+2023-02-22 10:47:23,095 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 10:47:24,340 [main] INFO logger_file - User enter email and password
+2023-02-22 10:47:26,448 [main] INFO logger_file - User click on lognin Button
+2023-02-22 10:47:27,150 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 10:47:28,545 [main] INFO logger_file - User Click On Account Option
+2023-02-22 10:47:28,884 [main] INFO logger_file - user click on edit address option
+2023-02-22 10:52:04,228 [main] INFO logger_file - React App is equal to React App
+2023-02-22 10:52:04,700 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 10:52:06,035 [main] INFO logger_file - User enter email and password
+2023-02-22 10:52:07,829 [main] INFO logger_file - User click on lognin Button
+2023-02-22 10:52:08,481 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 10:52:09,988 [main] INFO logger_file - User Click On Account Option
+2023-02-22 10:52:10,309 [main] INFO logger_file - user click on edit address option
+2023-02-22 10:55:13,733 [main] INFO logger_file - React App is equal to React App
+2023-02-22 10:55:14,248 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 10:55:15,587 [main] INFO logger_file - User enter email and password
+2023-02-22 10:55:17,323 [main] INFO logger_file - User click on lognin Button
+2023-02-22 10:55:17,933 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 10:55:19,322 [main] INFO logger_file - User Click On Account Option
+2023-02-22 10:55:19,765 [main] INFO logger_file - user click on edit address option
+2023-02-22 10:55:44,515 [main] INFO logger_file - React App is equal to React App
+2023-02-22 10:55:45,010 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 10:55:46,410 [main] INFO logger_file - User enter email and password
+2023-02-22 10:55:47,915 [main] INFO logger_file - User click on lognin Button
+2023-02-22 10:55:48,671 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 10:55:50,040 [main] INFO logger_file - User Click On Account Option
+2023-02-22 10:55:50,374 [main] INFO logger_file - user click on edit address option
+2023-02-22 18:14:00,003 [main] INFO logger_file - React App is equal to React App
+2023-02-22 18:14:00,480 [main] INFO logger_file - User clicked on sign in button
+2023-02-22 18:14:03,267 [main] INFO logger_file - User enter email and password
+2023-02-22 18:14:04,029 [main] INFO logger_file - User click on lognin Button
+2023-02-22 18:14:05,683 [main] INFO logger_file - user should be logged in into Account
+2023-02-22 18:14:06,247 [main] INFO logger_file - User Click On Account Option
+2023-02-22 18:14:06,789 [main] INFO logger_file - user click on edit address option
+2023-02-27 07:18:48,984 [main] INFO logger_file - React App is equal to React App
+2023-02-27 07:18:49,446 [main] INFO logger_file - User clicked on sign in button
+2023-02-27 07:18:50,825 [main] INFO logger_file - User enter email and password
+2023-02-27 07:18:52,716 [main] INFO logger_file - User click on lognin Button
+2023-02-27 07:18:53,380 [main] INFO logger_file - user should be logged in into Account
+2023-02-27 07:18:54,673 [main] INFO logger_file - User Click On Account Option
+2023-02-27 07:18:54,869 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-27 07:18:55,004 [main] INFO logger_file - User Click on Edit Link
+2023-02-27 14:43:51,246 [main] INFO logger_file - React App is equal to React App
+2023-02-27 14:43:51,724 [main] INFO logger_file - User clicked on sign in button
+2023-02-27 14:43:53,199 [main] INFO logger_file - User enter email and password
+2023-02-27 14:43:54,893 [main] INFO logger_file - User click on lognin Button
+2023-02-27 14:43:55,540 [main] INFO logger_file - user should be logged in into Account
+2023-02-27 14:43:56,910 [main] INFO logger_file - User Click On Account Option
+2023-02-27 14:43:57,217 [main] INFO logger_file - User Click on Edit Payment Method
+2023-02-27 14:43:57,390 [main] INFO logger_file - User Click on Edit Link
+2023-02-28 13:19:26,661 [main] INFO logger_file - React App is equal to React App
+2023-02-28 13:19:27,139 [main] INFO logger_file - User clicked on sign in button
+2023-02-28 13:19:28,637 [main] INFO logger_file - User enter email and password
+2023-02-28 13:19:30,379 [main] INFO logger_file - User click on lognin Button
+2023-02-28 13:19:30,965 [main] INFO logger_file - user should be logged in into Account
+2023-02-28 13:19:32,367 [main] INFO logger_file - User Click On Account Option
+2023-02-28 13:19:32,542 [main] INFO logger_file - User click on Add Payment Link
+2023-02-28 13:19:33,559 [main] INFO logger_file - user Fill Debit or Credit Card Information
+2023-02-28 13:19:33,623 [main] INFO logger_file - user Click on Add Your Card Button
+2023-02-28 13:19:34,623 [main] INFO logger_file - Payment Method added Successfully
