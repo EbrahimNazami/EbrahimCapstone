@@ -27,7 +27,7 @@ Feature: Retail Home Page
   @AddtoCart
   Scenario: Verify User can add an item to cart
     When User click on Sign in option
-    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@123456'
+    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@12345'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -42,7 +42,7 @@ Feature: Retail Home Page
   Scenario: Verify User can place an order add Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@123456'
+    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@12345'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -56,22 +56,22 @@ Feature: Retail Home Page
     And User click on Proceed to Checkout button
     And User click Add Your  new Address
     Then User fill new address form with below information
-      | country       | fullName   | phoneNumber | streetAddress       | apt | city      | state  | zipCode |
-      | United States | School TeK |  9168909482 | 908CaliforniaStreet | 879 | Roseville | Alaska |   98076 |
-    And User click Add Your Address button
+      | country       | fullName       | phoneNumber | streetAddress | apt | city          | state      | zipCode |
+      | United States | Ebrahim Nazami |  9168784444 | 908HomeStreet | 111 | San Francisco | California |   98076 |
+    And User click Add Your Address button on cart
     And User click on add new payment
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard     | expirationMonth | expirationYear | securityCode |
-      | 4812000099998888 | Ebrahim Nazami |              11 |           2026 |          560 |
+      | 4812088739910018 | Ebrahim Nazami |              09 |           2024 |          701 |
     And User click on Add your card button
     And User click on Place Your Order
-    Then there is a massage 'Order Placed, Thanks'
+    Then there is a massage 'Order Placed Successfuly'
 
   @placeSecoundOrder
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@123456'
+    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@12345'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Electronics'

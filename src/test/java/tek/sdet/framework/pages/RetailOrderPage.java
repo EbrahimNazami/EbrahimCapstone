@@ -17,13 +17,13 @@ public class RetailOrderPage extends BaseSetup {
 	
 // ------- Cancel Order ----------
 	
-@FindBy(id ="orderLink")
+@FindBy(xpath ="//a[@id='orderLink']")
 public WebElement Orderbutton;
 	
 @FindBy(xpath="//span[@class='orders__count']")	
 public WebElement Ordercount;
 	
-@FindBy(xpath = "//button[text()='Cancel The Order']")
+@FindBy(xpath = "//button[@id='cancelBtn']")
 public WebElement cancelbuttom;
 	
 @FindBy(xpath="//select[@id= 'reasonInput']")
@@ -72,7 +72,10 @@ public WebElement Headlin;
 @FindBy(xpath ="//textarea[@id='descriptionInput']" )
 public WebElement TextArea;
 
-@FindBy(xpath ="//button[text()='Add Your Review']")
+@FindBy(xpath ="//button[@id='reviewSubmitBtn']" )
+public WebElement AddYourReview;
+
+@FindBy(xpath ="//div[contains(text(),'Your review was added successfully')]")
 public WebElement AddReview;
 
 	

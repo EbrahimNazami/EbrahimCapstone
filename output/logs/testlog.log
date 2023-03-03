@@ -567,3 +567,1380 @@
 2023-02-28 13:19:33,559 - logger_file -INFO - user Fill Debit or Credit Card Information
 2023-02-28 13:19:33,623 - logger_file -INFO - user Click on Add Your Card Button
 2023-02-28 13:19:34,623 - logger_file -INFO - Payment Method added Successfully
+2023-02-28 16:08:05,305 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:08:05,728 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:08:07,102 - logger_file -INFO - User enter email and password
+2023-02-28 16:08:08,882 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:08:09,455 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:08:55,411 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:08:55,492 - logger_file -INFO - User Click On Creat New Account
+2023-02-28 16:09:00,257 - logger_file -INFO - User send the follow texts
+2023-02-28 16:09:00,423 - logger_file -INFO - user click on signup button
+2023-02-28 16:10:40,500 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:10:40,572 - logger_file -INFO - User Click On Creat New Account
+2023-02-28 16:10:44,380 - logger_file -INFO - User send the follow texts
+2023-02-28 16:10:45,024 - logger_file -INFO - user click on signup button
+2023-02-28 16:10:45,797 - logger_file -INFO - user should see teklogo
+2023-02-28 16:12:02,283 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:12:02,378 - logger_file -INFO - User Click On Creat New Account
+2023-02-28 16:12:06,759 - logger_file -INFO - User send the follow texts
+2023-02-28 16:12:06,920 - logger_file -INFO - user click on signup button
+2023-02-28 16:13:16,130 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:13:16,220 - logger_file -INFO - User Click On Creat New Account
+2023-02-28 16:13:19,957 - logger_file -INFO - User send the follow texts
+2023-02-28 16:13:20,591 - logger_file -INFO - user click on signup button
+2023-02-28 16:13:21,401 - logger_file -INFO - user should see teklogo
+2023-02-28 16:14:59,835 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:15:00,309 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:15:02,592 - logger_file -INFO - User enter email and password
+2023-02-28 16:15:03,723 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:15:04,378 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:15:05,737 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:15:05,832 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:15:06,273 - logger_file -INFO - User Update Name on Account
+2023-02-28 16:15:06,408 - logger_file -INFO - User Click On Update Button
+2023-02-28 16:15:06,421 - logger_file -INFO - User Profile Information Should Be Updated
+2023-02-28 16:16:07,244 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:16:07,692 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:16:08,995 - logger_file -INFO - User enter email and password
+2023-02-28 16:16:10,624 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:16:11,349 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:16:12,749 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:16:12,932 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:16:13,548 - logger_file -INFO - User entered the below information
+2023-02-28 16:16:13,617 - logger_file -INFO - User Click On Change Password Button
+2023-02-28 16:20:46,299 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:20:46,881 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:20:48,848 - logger_file -INFO - User enter email and password
+2023-02-28 16:20:50,501 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:20:51,184 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:20:52,528 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:20:52,605 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:20:53,349 - logger_file -INFO - User entered the below information
+2023-02-28 16:20:53,418 - logger_file -INFO - User Click On Change Password Button
+2023-02-28 16:22:44,255 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:22:44,712 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:22:46,380 - logger_file -INFO - User enter email and password
+2023-02-28 16:22:47,950 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:23:14,901 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:23:15,374 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:23:16,823 - logger_file -INFO - User enter email and password
+2023-02-28 16:23:18,585 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:23:19,208 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:23:20,483 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:23:20,578 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:23:21,068 - logger_file -INFO - User entered the below information
+2023-02-28 16:23:21,126 - logger_file -INFO - User Click On Change Password Button
+2023-02-28 16:24:25,016 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:24:25,478 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:24:27,282 - logger_file -INFO - User enter email and password
+2023-02-28 16:24:28,910 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:24:29,562 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:24:30,843 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:24:30,948 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:24:31,416 - logger_file -INFO - User entered the below information
+2023-02-28 16:24:31,619 - logger_file -INFO - User Click On Change Password Button
+2023-02-28 16:26:37,330 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:26:37,743 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:26:39,759 - logger_file -INFO - User enter email and password
+2023-02-28 16:26:41,108 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:27:38,393 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:27:38,816 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:27:40,334 - logger_file -INFO - User enter email and password
+2023-02-28 16:27:41,899 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:28:18,636 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:28:19,045 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:28:21,112 - logger_file -INFO - User enter email and password
+2023-02-28 16:28:22,383 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:28:48,029 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:28:48,455 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:28:50,098 - logger_file -INFO - User enter email and password
+2023-02-28 16:28:51,820 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:29:35,904 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:29:36,344 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:29:38,028 - logger_file -INFO - User enter email and password
+2023-02-28 16:29:39,652 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:30:19,693 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:30:20,150 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:30:21,623 - logger_file -INFO - User enter email and password
+2023-02-28 16:30:23,113 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:30:23,652 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:31:20,645 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:31:21,075 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:31:22,496 - logger_file -INFO - User enter email and password
+2023-02-28 16:31:24,342 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:34:55,387 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:34:55,960 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:34:58,864 - logger_file -INFO - User enter email and password
+2023-02-28 16:34:59,452 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:41:22,762 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:41:23,193 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:41:24,706 - logger_file -INFO - User enter email and password
+2023-02-28 16:41:26,617 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:41:27,145 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:41:28,330 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:41:28,444 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:41:29,113 - logger_file -INFO - User entered the below information
+2023-02-28 16:41:29,182 - logger_file -INFO - User Click On Change Password Button
+2023-02-28 16:41:30,548 - logger_file -INFO - password changed
+2023-02-28 16:42:50,465 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:42:50,904 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:42:52,368 - logger_file -INFO - User enter email and password
+2023-02-28 16:42:54,313 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:43:28,650 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:43:29,072 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:43:31,452 - logger_file -INFO - User enter email and password
+2023-02-28 16:43:32,621 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:43:33,266 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:43:34,579 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:43:34,749 - logger_file -INFO - User click on Add Payment Link
+2023-02-28 16:43:35,646 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-02-28 16:43:35,809 - logger_file -INFO - user Click on Add Your Card Button
+2023-02-28 16:43:36,779 - logger_file -INFO - Payment Method added Successfully
+2023-02-28 16:44:36,350 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:44:36,781 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:44:38,581 - logger_file -INFO - User enter email and password
+2023-02-28 16:44:40,266 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:44:40,899 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:44:42,262 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:44:42,459 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 16:44:42,597 - logger_file -INFO - User Click on Edit Link
+2023-02-28 16:46:10,327 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:46:10,757 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:46:12,417 - logger_file -INFO - User enter email and password
+2023-02-28 16:46:14,095 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:46:14,671 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:46:15,969 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:46:16,136 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 16:46:16,368 - logger_file -INFO - User Click on Edit Link
+2023-02-28 16:47:35,812 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:47:36,248 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:47:38,483 - logger_file -INFO - User enter email and password
+2023-02-28 16:47:39,579 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:47:40,234 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:47:41,605 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:47:41,754 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 16:47:41,916 - logger_file -INFO - User Click on Edit Link
+2023-02-28 16:47:43,084 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-02-28 16:47:43,212 - logger_file -INFO - User Click On Update Your Card Button
+2023-02-28 16:54:53,755 - logger_file -INFO - React App is equal to React App
+2023-02-28 16:54:54,183 - logger_file -INFO - User clicked on sign in button
+2023-02-28 16:54:55,380 - logger_file -INFO - User enter email and password
+2023-02-28 16:54:57,267 - logger_file -INFO - User click on lognin Button
+2023-02-28 16:54:57,957 - logger_file -INFO - user should be logged in into Account
+2023-02-28 16:54:59,147 - logger_file -INFO - User Click On Account Option
+2023-02-28 16:54:59,484 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 16:54:59,646 - logger_file -INFO - User Click on Edit Link
+2023-02-28 17:03:34,463 - logger_file -INFO - React App is equal to React App
+2023-02-28 17:03:34,797 - logger_file -INFO - User clicked on sign in button
+2023-02-28 17:03:36,211 - logger_file -INFO - User enter email and password
+2023-02-28 17:03:37,845 - logger_file -INFO - User click on lognin Button
+2023-02-28 17:03:38,604 - logger_file -INFO - user should be logged in into Account
+2023-02-28 17:03:40,159 - logger_file -INFO - User Click On Account Option
+2023-02-28 17:03:40,298 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 17:03:40,512 - logger_file -INFO - User Click on Edit Link
+2023-02-28 17:03:41,735 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-02-28 17:03:41,828 - logger_file -INFO - User Click On Update Your Card Button
+2023-02-28 21:54:48,623 - logger_file -INFO - React App is equal to React App
+2023-02-28 21:54:48,956 - logger_file -INFO - User clicked on sign in button
+2023-02-28 21:54:50,230 - logger_file -INFO - User enter email and password
+2023-02-28 21:54:52,104 - logger_file -INFO - User click on lognin Button
+2023-02-28 21:54:52,847 - logger_file -INFO - user should be logged in into Account
+2023-02-28 21:54:54,059 - logger_file -INFO - User Click On Account Option
+2023-02-28 21:54:54,512 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 21:54:54,738 - logger_file -INFO - User Click on Edit Link
+2023-02-28 21:54:55,903 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-02-28 21:54:55,994 - logger_file -INFO - User Click On Update Your Card Button
+2023-02-28 21:56:27,062 - logger_file -INFO - React App is equal to React App
+2023-02-28 21:56:27,417 - logger_file -INFO - User clicked on sign in button
+2023-02-28 21:56:28,767 - logger_file -INFO - User enter email and password
+2023-02-28 21:56:30,466 - logger_file -INFO - User click on lognin Button
+2023-02-28 21:56:31,149 - logger_file -INFO - user should be logged in into Account
+2023-02-28 21:56:32,118 - logger_file -INFO - User Click On Account Option
+2023-02-28 21:56:32,601 - logger_file -INFO - User Click On Account Option
+2023-02-28 21:56:32,756 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 21:56:32,934 - logger_file -INFO - user removed the payment
+2023-02-28 21:56:32,958 - logger_file -INFO - payment details should be remove
+2023-02-28 21:58:14,716 - logger_file -INFO - React App is equal to React App
+2023-02-28 21:58:15,054 - logger_file -INFO - User clicked on sign in button
+2023-02-28 21:58:17,406 - logger_file -INFO - User enter email and password
+2023-02-28 21:58:18,305 - logger_file -INFO - User click on lognin Button
+2023-02-28 21:58:18,998 - logger_file -INFO - user should be logged in into Account
+2023-02-28 21:58:20,190 - logger_file -INFO - User Click On Account Option
+2023-02-28 21:58:20,808 - logger_file -INFO - user click on add address option
+2023-02-28 21:58:22,363 - logger_file -INFO - user fill new address form with below information
+2023-02-28 21:58:22,509 - logger_file -INFO - user click on add your address button
+2023-02-28 22:01:51,562 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:01:52,107 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:01:53,619 - logger_file -INFO - User enter email and password
+2023-02-28 22:01:55,608 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:01:56,308 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:01:57,587 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:01:57,987 - logger_file -INFO - user click on add address option
+2023-02-28 22:01:59,685 - logger_file -INFO - user fill new address form with below information
+2023-02-28 22:01:59,832 - logger_file -INFO - user click on add your address button
+2023-02-28 22:02:42,321 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:02:42,649 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:02:44,113 - logger_file -INFO - User enter email and password
+2023-02-28 22:02:45,847 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:02:46,530 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:02:47,711 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:02:48,298 - logger_file -INFO - user click on edit address option
+2023-02-28 22:08:50,392 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:08:50,755 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:08:52,424 - logger_file -INFO - User enter email and password
+2023-02-28 22:08:53,910 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:08:54,824 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:08:55,825 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:08:56,177 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:08:56,288 - logger_file -INFO - User Click on Edit Payment Method
+2023-02-28 22:08:56,432 - logger_file -INFO - user removed the payment
+2023-02-28 22:08:56,448 - logger_file -INFO - payment details should be remove
+2023-02-28 22:09:33,657 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:09:33,990 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:09:35,368 - logger_file -INFO - User enter email and password
+2023-02-28 22:09:37,139 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:09:38,146 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:09:39,245 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:15:55,268 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:15:55,631 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:15:56,969 - logger_file -INFO - User enter email and password
+2023-02-28 22:15:58,716 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:15:59,317 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:16:00,487 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:16:01,159 - logger_file -INFO - user click on add address option
+2023-02-28 22:16:02,800 - logger_file -INFO - user fill new address form with below information
+2023-02-28 22:16:02,946 - logger_file -INFO - user click on add your address button
+2023-02-28 22:23:33,009 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:23:33,383 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:23:34,973 - logger_file -INFO - User enter email and password
+2023-02-28 22:23:36,685 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:23:37,456 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:23:38,543 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:26:33,748 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:26:34,111 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:26:35,530 - logger_file -INFO - User enter email and password
+2023-02-28 22:26:37,068 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:26:38,285 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:26:38,872 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:27:18,194 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:27:18,512 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:27:21,542 - logger_file -INFO - User enter email and password
+2023-02-28 22:27:22,018 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:27:22,816 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:27:24,009 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:27:24,510 - logger_file -INFO - user click on add address option
+2023-02-28 22:27:26,241 - logger_file -INFO - user fill new address form with below information
+2023-02-28 22:27:26,397 - logger_file -INFO - user click on add your address button
+2023-02-28 22:28:32,556 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:28:32,880 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:28:34,436 - logger_file -INFO - User enter email and password
+2023-02-28 22:28:36,179 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:28:36,815 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:28:37,307 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:28:38,519 - logger_file -INFO - User click on remove link
+2023-02-28 22:28:38,538 - logger_file -INFO - User see account picture
+2023-02-28 22:31:42,027 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:31:42,418 - logger_file -INFO - click on all section
+2023-02-28 22:31:47,484 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-02-28 22:35:35,618 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:35:35,967 - logger_file -INFO - click on all section
+2023-02-28 22:35:41,014 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-02-28 22:36:33,117 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:36:33,499 - logger_file -INFO - click on all section
+2023-02-28 22:36:38,543 - logger_file -INFO - user is on Electronics section
+2023-02-28 22:36:38,606 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2023-02-28 22:36:45,911 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:36:46,218 - logger_file -INFO - click on all section
+2023-02-28 22:36:51,266 - logger_file -INFO - user is on Computers section
+2023-02-28 22:36:51,326 - logger_file -INFO - Accessories options are present in departmentNetworking
+2023-02-28 22:36:58,088 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:36:58,411 - logger_file -INFO - click on all section
+2023-02-28 22:37:10,173 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:37:10,475 - logger_file -INFO - click on all section
+2023-02-28 22:37:15,522 - logger_file -INFO - user is on Sports section
+2023-02-28 22:37:15,583 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2023-02-28 22:37:22,715 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:37:22,982 - logger_file -INFO - click on all section
+2023-02-28 22:37:28,024 - logger_file -INFO - user is on Automotive section
+2023-02-28 22:37:28,081 - logger_file -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2023-02-28 22:47:39,816 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:47:40,301 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:47:41,811 - logger_file -INFO - User enter email and password
+2023-02-28 22:47:43,709 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:48:23,166 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:48:23,494 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:48:25,195 - logger_file -INFO - User enter email and password
+2023-02-28 22:48:26,667 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:48:27,403 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:48:28,061 - logger_file -INFO - select smart home
+2023-02-28 22:48:28,783 - logger_file -INFO - search some thing
+2023-02-28 22:48:28,963 - logger_file -INFO - click on search
+2023-02-28 22:48:29,367 - logger_file -INFO - item add 
+2023-02-28 22:48:30,158 - logger_file -INFO - item count added
+2023-02-28 22:48:30,206 - logger_file -INFO - item added to cart
+2023-02-28 22:48:30,665 - logger_file -INFO - item added to cart successfully
+2023-02-28 22:49:19,498 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:49:19,503 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:49:19,836 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:49:21,200 - logger_file -INFO - User enter email and password
+2023-02-28 22:49:22,875 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:49:23,701 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:49:24,301 - logger_file -INFO - select smart home
+2023-02-28 22:49:25,020 - logger_file -INFO - search some thing
+2023-02-28 22:49:25,226 - logger_file -INFO - click on search
+2023-02-28 22:49:25,734 - logger_file -INFO - item add 
+2023-02-28 22:49:26,505 - logger_file -INFO - item count added
+2023-02-28 22:49:26,570 - logger_file -INFO - item added to cart
+2023-02-28 22:49:26,582 - logger_file -INFO - item added to cart successfully
+2023-02-28 22:49:26,810 - logger_file -INFO - place order
+2023-02-28 22:49:26,900 - logger_file -INFO - click on proceed
+2023-02-28 22:49:27,222 - logger_file -INFO - add Address
+2023-02-28 22:59:15,406 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:59:15,721 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:59:17,187 - logger_file -INFO - User enter email and password
+2023-02-28 22:59:18,865 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:59:19,500 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:59:19,958 - logger_file -INFO - User Click On Account Option
+2023-02-28 22:59:21,365 - logger_file -INFO - user click on add address option
+2023-02-28 22:59:23,072 - logger_file -INFO - user fill new address form with below information
+2023-02-28 22:59:23,222 - logger_file -INFO - user click on add your address button
+2023-02-28 22:59:54,027 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:59:54,032 - logger_file -INFO - React App is equal to React App
+2023-02-28 22:59:54,360 - logger_file -INFO - User clicked on sign in button
+2023-02-28 22:59:55,827 - logger_file -INFO - User enter email and password
+2023-02-28 22:59:57,452 - logger_file -INFO - User click on lognin Button
+2023-02-28 22:59:58,276 - logger_file -INFO - user should be logged in into Account
+2023-02-28 22:59:58,539 - logger_file -INFO - select smart home
+2023-02-28 22:59:59,529 - logger_file -INFO - search some thing
+2023-02-28 22:59:59,729 - logger_file -INFO - click on search
+2023-02-28 23:00:00,165 - logger_file -INFO - item add 
+2023-02-28 23:00:00,922 - logger_file -INFO - item count added
+2023-02-28 23:00:01,051 - logger_file -INFO - item added to cart
+2023-02-28 23:00:01,063 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:00:01,206 - logger_file -INFO - place order
+2023-02-28 23:00:01,285 - logger_file -INFO - click on proceed
+2023-02-28 23:00:01,725 - logger_file -INFO - add Address
+2023-02-28 23:13:59,076 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:13:59,081 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:13:59,415 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:14:00,929 - logger_file -INFO - User enter email and password
+2023-02-28 23:14:02,469 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:14:03,296 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:14:04,055 - logger_file -INFO - select smart home
+2023-02-28 23:14:04,652 - logger_file -INFO - search some thing
+2023-02-28 23:14:04,768 - logger_file -INFO - click on search
+2023-02-28 23:14:05,173 - logger_file -INFO - item add 
+2023-02-28 23:14:05,792 - logger_file -INFO - item count added
+2023-02-28 23:14:05,865 - logger_file -INFO - item added to cart
+2023-02-28 23:14:05,877 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:14:06,024 - logger_file -INFO - place order
+2023-02-28 23:14:06,103 - logger_file -INFO - click on proceed
+2023-02-28 23:14:06,450 - logger_file -INFO - add Address
+2023-02-28 23:15:19,700 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:15:19,704 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:15:20,031 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:15:21,432 - logger_file -INFO - User enter email and password
+2023-02-28 23:15:23,222 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:15:23,932 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:15:24,249 - logger_file -INFO - select smart home
+2023-02-28 23:15:25,292 - logger_file -INFO - search some thing
+2023-02-28 23:15:25,477 - logger_file -INFO - click on search
+2023-02-28 23:15:25,867 - logger_file -INFO - item add 
+2023-02-28 23:15:26,546 - logger_file -INFO - item count added
+2023-02-28 23:15:26,593 - logger_file -INFO - item added to cart
+2023-02-28 23:15:26,605 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:15:26,781 - logger_file -INFO - place order
+2023-02-28 23:15:26,863 - logger_file -INFO - click on proceed
+2023-02-28 23:15:27,219 - logger_file -INFO - add Address
+2023-02-28 23:20:54,418 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:20:54,422 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:20:54,740 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:20:56,044 - logger_file -INFO - User enter email and password
+2023-02-28 23:20:57,841 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:20:58,462 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:20:59,076 - logger_file -INFO - select smart home
+2023-02-28 23:20:59,879 - logger_file -INFO - search some thing
+2023-02-28 23:21:00,048 - logger_file -INFO - click on search
+2023-02-28 23:21:00,441 - logger_file -INFO - item add 
+2023-02-28 23:21:01,192 - logger_file -INFO - item count added
+2023-02-28 23:21:01,266 - logger_file -INFO - item added to cart
+2023-02-28 23:21:01,277 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:21:01,416 - logger_file -INFO - place order
+2023-02-28 23:21:01,527 - logger_file -INFO - click on proceed
+2023-02-28 23:21:01,861 - logger_file -INFO - add Address
+2023-02-28 23:24:04,930 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:24:04,934 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:24:05,283 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:24:06,973 - logger_file -INFO - User enter email and password
+2023-02-28 23:24:08,543 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:24:52,965 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:24:52,969 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:24:53,218 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:24:54,699 - logger_file -INFO - User enter email and password
+2023-02-28 23:24:56,351 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:24:56,990 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:24:57,579 - logger_file -INFO - select smart home
+2023-02-28 23:24:58,002 - logger_file -INFO - search some thing
+2023-02-28 23:24:58,168 - logger_file -INFO - click on search
+2023-02-28 23:25:01,214 - logger_file -INFO - secound item added
+2023-02-28 23:25:04,156 - logger_file -INFO - item count added
+2023-02-28 23:25:04,283 - logger_file -INFO - item added to cart
+2023-02-28 23:25:04,858 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:25:05,007 - logger_file -INFO - place order
+2023-02-28 23:25:05,101 - logger_file -INFO - click on proceed
+2023-02-28 23:25:05,143 - logger_file -INFO - placeOrder
+2023-02-28 23:33:00,671 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:33:00,676 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:33:01,007 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:33:02,401 - logger_file -INFO - User enter email and password
+2023-02-28 23:33:04,151 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:33:04,882 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:33:04,977 - logger_file -INFO - select smart home
+2023-02-28 23:33:06,086 - logger_file -INFO - search some thing
+2023-02-28 23:33:06,264 - logger_file -INFO - click on search
+2023-02-28 23:33:06,662 - logger_file -INFO - secound item added
+2023-02-28 23:33:07,238 - logger_file -INFO - item count added
+2023-02-28 23:33:07,320 - logger_file -INFO - item added to cart
+2023-02-28 23:33:07,627 - logger_file -INFO - item added to cart successfully
+2023-02-28 23:33:07,906 - logger_file -INFO - place order
+2023-02-28 23:33:08,004 - logger_file -INFO - click on proceed
+2023-02-28 23:33:08,045 - logger_file -INFO - placeOrder
+2023-02-28 23:36:15,989 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:36:16,288 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:36:17,896 - logger_file -INFO - User enter email and password
+2023-02-28 23:36:19,786 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:36:20,513 - logger_file -INFO - user should be logged in into Account
+2023-02-28 23:37:09,537 - logger_file -INFO - React App is equal to React App
+2023-02-28 23:37:09,877 - logger_file -INFO - User clicked on sign in button
+2023-02-28 23:37:11,594 - logger_file -INFO - User enter email and password
+2023-02-28 23:37:13,062 - logger_file -INFO - User click on lognin Button
+2023-02-28 23:37:13,725 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:37:00,781 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:37:01,226 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:37:03,756 - logger_file -INFO - User enter email and password
+2023-03-01 09:37:04,686 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:37:05,468 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:37:06,684 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:37:06,816 - logger_file -INFO - User Click on Edit Payment Method
+2023-03-01 09:37:06,999 - logger_file -INFO - User Click on Edit Link
+2023-03-01 09:37:08,321 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-03-01 09:37:08,431 - logger_file -INFO - User Click On Update Your Card Button
+2023-03-01 09:37:09,426 - logger_file -INFO - Payment Method updated Successfully
+2023-03-01 09:38:46,129 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:38:46,580 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:38:48,153 - logger_file -INFO - User enter email and password
+2023-03-01 09:38:49,727 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:38:50,303 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:38:51,640 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:38:51,997 - logger_file -INFO - user click on edit address option
+2023-03-01 09:39:19,486 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:39:19,875 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:39:21,679 - logger_file -INFO - User enter email and password
+2023-03-01 09:39:23,270 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:39:23,927 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:39:25,195 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:39:25,551 - logger_file -INFO - user click on edit address option
+2023-03-01 09:40:29,472 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:40:30,000 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:40:31,489 - logger_file -INFO - User enter email and password
+2023-03-01 09:40:33,233 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:40:33,808 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:40:35,201 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:40:35,630 - logger_file -INFO - user click on edit address option
+2023-03-01 09:42:05,869 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:42:06,192 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:42:07,988 - logger_file -INFO - User enter email and password
+2023-03-01 09:42:09,439 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:42:10,090 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:42:11,259 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:42:11,874 - logger_file -INFO - user click on edit address option
+2023-03-01 09:43:35,591 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:43:36,022 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:43:37,559 - logger_file -INFO - User enter email and password
+2023-03-01 09:43:39,104 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:43:39,708 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:43:40,975 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:43:41,229 - logger_file -INFO - User Click on Edit Payment Method
+2023-03-01 09:43:41,402 - logger_file -INFO - User Click on Edit Link
+2023-03-01 09:43:42,803 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-03-01 09:43:42,881 - logger_file -INFO - User Click On Update Your Card Button
+2023-03-01 09:43:43,824 - logger_file -INFO - Payment Method updated Successfully
+2023-03-01 09:46:40,963 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:46:41,348 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:46:42,975 - logger_file -INFO - User enter email and password
+2023-03-01 09:46:44,957 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:46:45,614 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:46:46,927 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:46:47,097 - logger_file -INFO - User Click on Edit Payment Method
+2023-03-01 09:46:47,290 - logger_file -INFO - User Click on Edit Link
+2023-03-01 09:46:48,526 - logger_file -INFO - userDebitOrCreditCardInformation
+2023-03-01 09:46:48,633 - logger_file -INFO - User Click On Update Your Card Button
+2023-03-01 09:46:49,567 - logger_file -INFO - Payment Method updated Successfully
+2023-03-01 09:49:53,296 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:49:53,702 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:49:55,817 - logger_file -INFO - User enter email and password
+2023-03-01 09:49:56,993 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:49:57,662 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:49:59,023 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:49:59,339 - logger_file -INFO - user click on edit address option
+2023-03-01 09:51:05,712 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:51:06,145 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:51:07,564 - logger_file -INFO - User enter email and password
+2023-03-01 09:51:09,127 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:51:09,766 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:51:10,937 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:51:11,533 - logger_file -INFO - user click on edit address option
+2023-03-01 09:53:30,952 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:53:31,366 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:53:32,846 - logger_file -INFO - User enter email and password
+2023-03-01 09:53:34,637 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:53:35,264 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:53:36,602 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:53:36,947 - logger_file -INFO - user click on edit address option
+2023-03-01 09:54:13,310 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:54:13,778 - logger_file -INFO - User clicked on sign in button
+2023-03-01 09:54:15,316 - logger_file -INFO - User enter email and password
+2023-03-01 09:54:17,197 - logger_file -INFO - User click on lognin Button
+2023-03-01 09:54:17,862 - logger_file -INFO - user should be logged in into Account
+2023-03-01 09:54:19,205 - logger_file -INFO - User Click On Account Option
+2023-03-01 09:54:19,560 - logger_file -INFO - user click on edit address option
+2023-03-01 09:57:54,271 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:57:54,694 - logger_file -INFO - click on all section
+2023-03-01 09:57:59,739 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-03-01 09:58:36,818 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:58:37,237 - logger_file -INFO - click on all section
+2023-03-01 09:58:42,279 - logger_file -INFO - user is on Electronics section
+2023-03-01 09:58:42,340 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2023-03-01 09:58:50,650 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:58:51,111 - logger_file -INFO - click on all section
+2023-03-01 09:58:56,149 - logger_file -INFO - user is on Computers section
+2023-03-01 09:58:56,208 - logger_file -INFO - Accessories options are present in departmentNetworking
+2023-03-01 09:59:04,093 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:59:04,478 - logger_file -INFO - click on all section
+2023-03-01 09:59:16,152 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:59:16,545 - logger_file -INFO - click on all section
+2023-03-01 09:59:21,598 - logger_file -INFO - user is on Sports section
+2023-03-01 09:59:21,655 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2023-03-01 09:59:29,786 - logger_file -INFO - React App is equal to React App
+2023-03-01 09:59:30,186 - logger_file -INFO - click on all section
+2023-03-01 09:59:35,234 - logger_file -INFO - user is on Automotive section
+2023-03-01 09:59:35,291 - logger_file -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2023-03-01 10:00:19,043 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:00:19,490 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:00:20,758 - logger_file -INFO - User enter email and password
+2023-03-01 10:00:21,999 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:00:23,186 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:00:23,851 - logger_file -INFO - select smart home
+2023-03-01 10:00:24,323 - logger_file -INFO - search some thing
+2023-03-01 10:00:24,484 - logger_file -INFO - click on search
+2023-03-01 10:00:24,810 - logger_file -INFO - item add 
+2023-03-01 10:00:25,420 - logger_file -INFO - item count added
+2023-03-01 10:00:25,470 - logger_file -INFO - item added to cart
+2023-03-01 10:00:25,719 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:00:56,992 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:00:57,021 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:00:57,445 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:00:58,833 - logger_file -INFO - User enter email and password
+2023-03-01 10:01:00,584 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:01:01,154 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:01:01,755 - logger_file -INFO - select smart home
+2023-03-01 10:01:02,294 - logger_file -INFO - search some thing
+2023-03-01 10:01:02,454 - logger_file -INFO - click on search
+2023-03-01 10:01:02,764 - logger_file -INFO - item add 
+2023-03-01 10:01:03,291 - logger_file -INFO - item count added
+2023-03-01 10:01:03,356 - logger_file -INFO - item added to cart
+2023-03-01 10:01:03,367 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:01:03,559 - logger_file -INFO - place order
+2023-03-01 10:01:03,690 - logger_file -INFO - click on proceed
+2023-03-01 10:01:04,008 - logger_file -INFO - add Address
+2023-03-01 10:02:16,644 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:02:16,649 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:02:17,160 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:02:18,727 - logger_file -INFO - User enter email and password
+2023-03-01 10:02:20,569 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:02:21,161 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:02:21,731 - logger_file -INFO - select smart home
+2023-03-01 10:02:22,317 - logger_file -INFO - search some thing
+2023-03-01 10:02:22,523 - logger_file -INFO - click on search
+2023-03-01 10:02:22,844 - logger_file -INFO - item add 
+2023-03-01 10:02:23,291 - logger_file -INFO - item count added
+2023-03-01 10:02:23,384 - logger_file -INFO - item added to cart
+2023-03-01 10:02:23,395 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:02:23,579 - logger_file -INFO - place order
+2023-03-01 10:02:23,676 - logger_file -INFO - click on proceed
+2023-03-01 10:02:23,995 - logger_file -INFO - add Address
+2023-03-01 10:03:27,772 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:03:27,777 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:03:28,287 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:03:31,240 - logger_file -INFO - User enter email and password
+2023-03-01 10:03:31,877 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:03:32,514 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:03:33,465 - logger_file -INFO - select smart home
+2023-03-01 10:03:33,710 - logger_file -INFO - search some thing
+2023-03-01 10:03:33,854 - logger_file -INFO - click on search
+2023-03-01 10:03:34,211 - logger_file -INFO - item add 
+2023-03-01 10:03:34,627 - logger_file -INFO - item count added
+2023-03-01 10:03:34,725 - logger_file -INFO - item added to cart
+2023-03-01 10:03:34,738 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:03:34,938 - logger_file -INFO - place order
+2023-03-01 10:03:35,032 - logger_file -INFO - click on proceed
+2023-03-01 10:03:35,352 - logger_file -INFO - add Address
+2023-03-01 10:05:23,458 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:05:23,463 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:05:23,980 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:05:25,754 - logger_file -INFO - User enter email and password
+2023-03-01 10:05:27,426 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:05:28,063 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:05:29,050 - logger_file -INFO - select smart home
+2023-03-01 10:05:29,195 - logger_file -INFO - search some thing
+2023-03-01 10:05:29,410 - logger_file -INFO - click on search
+2023-03-01 10:05:29,733 - logger_file -INFO - secound item added
+2023-03-01 10:05:30,175 - logger_file -INFO - item count added
+2023-03-01 10:05:30,241 - logger_file -INFO - item added to cart
+2023-03-01 10:05:30,255 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:05:30,556 - logger_file -INFO - place order
+2023-03-01 10:05:30,698 - logger_file -INFO - click on proceed
+2023-03-01 10:05:30,739 - logger_file -INFO - placeOrder
+2023-03-01 10:06:25,237 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:06:25,270 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:06:25,656 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:06:28,005 - logger_file -INFO - User enter email and password
+2023-03-01 10:06:28,884 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:06:29,508 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:06:30,420 - logger_file -INFO - select smart home
+2023-03-01 10:06:30,565 - logger_file -INFO - search some thing
+2023-03-01 10:06:30,780 - logger_file -INFO - click on search
+2023-03-01 10:06:31,102 - logger_file -INFO - secound item added
+2023-03-01 10:06:31,556 - logger_file -INFO - item count added
+2023-03-01 10:06:31,650 - logger_file -INFO - item added to cart
+2023-03-01 10:06:31,981 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:06:32,189 - logger_file -INFO - place order
+2023-03-01 10:06:32,349 - logger_file -INFO - click on proceed
+2023-03-01 10:06:32,389 - logger_file -INFO - placeOrder
+2023-03-01 10:07:00,211 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:07:00,217 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:07:00,590 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:07:02,990 - logger_file -INFO - User enter email and password
+2023-03-01 10:07:04,264 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:07:04,948 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:07:05,907 - logger_file -INFO - select smart home
+2023-03-01 10:07:06,036 - logger_file -INFO - search some thing
+2023-03-01 10:07:06,251 - logger_file -INFO - click on search
+2023-03-01 10:07:06,594 - logger_file -INFO - secound item added
+2023-03-01 10:07:07,011 - logger_file -INFO - item count added
+2023-03-01 10:07:07,098 - logger_file -INFO - item added to cart
+2023-03-01 10:07:07,413 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:07:07,623 - logger_file -INFO - place order
+2023-03-01 10:07:07,767 - logger_file -INFO - click on proceed
+2023-03-01 10:07:07,807 - logger_file -INFO - placeOrder
+2023-03-01 10:13:04,161 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:13:04,166 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:13:04,819 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:13:06,494 - logger_file -INFO - User enter email and password
+2023-03-01 10:13:08,259 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:13:08,793 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:13:09,924 - logger_file -INFO - select smart home
+2023-03-01 10:13:10,074 - logger_file -INFO - search some thing
+2023-03-01 10:13:10,287 - logger_file -INFO - click on search
+2023-03-01 10:13:10,631 - logger_file -INFO - secound item added
+2023-03-01 10:13:11,008 - logger_file -INFO - item count added
+2023-03-01 10:13:11,083 - logger_file -INFO - item added to cart
+2023-03-01 10:13:11,445 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:13:11,582 - logger_file -INFO - place order
+2023-03-01 10:13:11,724 - logger_file -INFO - click on proceed
+2023-03-01 10:13:11,872 - logger_file -INFO - placeOrder
+2023-03-01 10:15:24,297 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:15:24,302 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:15:24,767 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:15:26,271 - logger_file -INFO - User enter email and password
+2023-03-01 10:15:27,977 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:15:28,572 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:15:29,564 - logger_file -INFO - select smart home
+2023-03-01 10:15:29,706 - logger_file -INFO - search some thing
+2023-03-01 10:15:29,993 - logger_file -INFO - click on search
+2023-03-01 10:15:30,341 - logger_file -INFO - secound item added
+2023-03-01 10:15:30,801 - logger_file -INFO - item count added
+2023-03-01 10:15:30,886 - logger_file -INFO - item added to cart
+2023-03-01 10:15:31,190 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:15:31,408 - logger_file -INFO - place order
+2023-03-01 10:15:31,544 - logger_file -INFO - click on proceed
+2023-03-01 10:15:31,584 - logger_file -INFO - placeOrder
+2023-03-01 10:27:11,100 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:27:11,104 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:27:11,621 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:27:12,864 - logger_file -INFO - User enter email and password
+2023-03-01 10:27:14,546 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:27:15,513 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:27:15,788 - logger_file -INFO - select smart home
+2023-03-01 10:27:16,712 - logger_file -INFO - search some thing
+2023-03-01 10:27:16,872 - logger_file -INFO - click on search
+2023-03-01 10:27:17,193 - logger_file -INFO - secound item added
+2023-03-01 10:27:17,654 - logger_file -INFO - item count added
+2023-03-01 10:27:17,761 - logger_file -INFO - item added to cart
+2023-03-01 10:27:18,044 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:27:18,248 - logger_file -INFO - place order
+2023-03-01 10:27:18,369 - logger_file -INFO - click on proceed
+2023-03-01 10:27:18,409 - logger_file -INFO - placeOrder
+2023-03-01 10:27:18,989 - logger_file -INFO - order placed
+2023-03-01 10:28:50,695 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:28:50,700 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:28:51,135 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:28:52,794 - logger_file -INFO - User enter email and password
+2023-03-01 10:28:54,556 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:28:55,235 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:28:56,224 - logger_file -INFO - select smart home
+2023-03-01 10:28:56,444 - logger_file -INFO - search some thing
+2023-03-01 10:28:56,554 - logger_file -INFO - click on search
+2023-03-01 10:28:56,860 - logger_file -INFO - item add 
+2023-03-01 10:28:57,305 - logger_file -INFO - item count added
+2023-03-01 10:28:57,420 - logger_file -INFO - item added to cart
+2023-03-01 10:28:57,674 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:28:57,872 - logger_file -INFO - place order
+2023-03-01 10:28:58,013 - logger_file -INFO - click on proceed
+2023-03-01 10:28:58,339 - logger_file -INFO - add Address
+2023-03-01 10:29:46,366 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:29:46,516 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:29:46,832 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:29:48,285 - logger_file -INFO - User enter email and password
+2023-03-01 10:29:50,214 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:29:50,847 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:29:51,850 - logger_file -INFO - select smart home
+2023-03-01 10:29:52,038 - logger_file -INFO - search some thing
+2023-03-01 10:29:52,219 - logger_file -INFO - click on search
+2023-03-01 10:29:52,534 - logger_file -INFO - item add 
+2023-03-01 10:29:53,020 - logger_file -INFO - item count added
+2023-03-01 10:29:53,094 - logger_file -INFO - item added to cart
+2023-03-01 10:29:53,106 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:29:53,282 - logger_file -INFO - place order
+2023-03-01 10:29:53,366 - logger_file -INFO - click on proceed
+2023-03-01 10:29:53,684 - logger_file -INFO - add Address
+2023-03-01 10:31:36,539 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:31:36,544 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:31:36,884 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:31:38,815 - logger_file -INFO - User enter email and password
+2023-03-01 10:31:40,201 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:31:40,818 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:31:41,497 - logger_file -INFO - select smart home
+2023-03-01 10:31:42,213 - logger_file -INFO - search some thing
+2023-03-01 10:31:42,409 - logger_file -INFO - click on search
+2023-03-01 10:31:42,736 - logger_file -INFO - item add 
+2023-03-01 10:31:43,211 - logger_file -INFO - item count added
+2023-03-01 10:31:43,282 - logger_file -INFO - item added to cart
+2023-03-01 10:31:43,293 - logger_file -INFO - item added to cart successfully
+2023-03-01 10:31:43,470 - logger_file -INFO - place order
+2023-03-01 10:31:43,564 - logger_file -INFO - click on proceed
+2023-03-01 10:31:43,917 - logger_file -INFO - add Address
+2023-03-01 10:34:59,446 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:34:59,879 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:35:01,078 - logger_file -INFO - User enter email and password
+2023-03-01 10:35:02,764 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:35:03,558 - logger_file -INFO - user should be logged in into Account
+2023-03-01 10:35:55,195 - logger_file -INFO - React App is equal to React App
+2023-03-01 10:35:55,641 - logger_file -INFO - User clicked on sign in button
+2023-03-01 10:35:57,559 - logger_file -INFO - User enter email and password
+2023-03-01 10:35:59,118 - logger_file -INFO - User click on lognin Button
+2023-03-01 10:35:59,796 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:31:58,186 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:31:58,648 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:32:01,039 - logger_file -INFO - User enter email and password
+2023-03-01 16:32:02,183 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:32:02,777 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:32:04,134 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:32:04,481 - logger_file -INFO - user click on edit address option
+2023-03-01 16:33:47,451 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:33:47,741 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:33:49,227 - logger_file -INFO - User enter email and password
+2023-03-01 16:33:50,891 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:33:51,476 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:33:51,917 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:33:53,449 - logger_file -INFO - user click on edit address option
+2023-03-01 16:34:27,849 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:34:28,299 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:34:30,169 - logger_file -INFO - User enter email and password
+2023-03-01 16:34:31,720 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:34:32,348 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:34:33,843 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:34:34,202 - logger_file -INFO - user click on edit address option
+2023-03-01 16:53:07,491 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:53:08,021 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:53:09,581 - logger_file -INFO - User enter email and password
+2023-03-01 16:53:11,288 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:53:11,916 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:53:13,486 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:53:13,941 - logger_file -INFO - user click on add address option
+2023-03-01 16:53:15,575 - logger_file -INFO - user fill new address form with below information
+2023-03-01 16:53:15,747 - logger_file -INFO - user click on add your address button
+2023-03-01 16:56:04,065 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:56:04,565 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:56:06,146 - logger_file -INFO - User enter email and password
+2023-03-01 16:56:08,159 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:56:09,000 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:56:10,365 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:56:10,950 - logger_file -INFO - user click on edit address option
+2023-03-01 16:56:39,509 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:56:39,969 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:56:41,298 - logger_file -INFO - User enter email and password
+2023-03-01 16:56:43,139 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:56:45,048 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:56:46,732 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:56:47,195 - logger_file -INFO - user click on edit address option
+2023-03-01 16:57:11,736 - logger_file -INFO - React App is equal to React App
+2023-03-01 16:57:12,273 - logger_file -INFO - User clicked on sign in button
+2023-03-01 16:57:13,553 - logger_file -INFO - User enter email and password
+2023-03-01 16:57:15,716 - logger_file -INFO - User click on lognin Button
+2023-03-01 16:57:16,382 - logger_file -INFO - user should be logged in into Account
+2023-03-01 16:57:17,820 - logger_file -INFO - User Click On Account Option
+2023-03-01 16:57:18,310 - logger_file -INFO - user click on edit address option
+2023-03-01 17:00:23,060 - logger_file -INFO - React App is equal to React App
+2023-03-01 17:00:23,572 - logger_file -INFO - User clicked on sign in button
+2023-03-01 17:00:25,410 - logger_file -INFO - User enter email and password
+2023-03-01 17:00:27,227 - logger_file -INFO - User click on lognin Button
+2023-03-01 17:00:27,908 - logger_file -INFO - user should be logged in into Account
+2023-03-01 17:00:29,487 - logger_file -INFO - User Click On Account Option
+2023-03-01 17:00:29,912 - logger_file -INFO - user click on edit address option
+2023-03-01 17:07:51,535 - logger_file -INFO - React App is equal to React App
+2023-03-01 17:07:51,905 - logger_file -INFO - User clicked on sign in button
+2023-03-01 17:07:53,334 - logger_file -INFO - User enter email and password
+2023-03-01 17:07:55,006 - logger_file -INFO - User click on lognin Button
+2023-03-01 17:07:55,690 - logger_file -INFO - user should be logged in into Account
+2023-03-01 17:07:56,175 - logger_file -INFO - User Click On Account Option
+2023-03-01 17:07:57,593 - logger_file -INFO - user click on edit address option
+2023-03-01 17:13:28,998 - logger_file -INFO - React App is equal to React App
+2023-03-01 17:13:29,519 - logger_file -INFO - User clicked on sign in button
+2023-03-01 17:13:31,162 - logger_file -INFO - User enter email and password
+2023-03-01 17:13:32,899 - logger_file -INFO - User click on lognin Button
+2023-03-01 17:13:33,479 - logger_file -INFO - user should be logged in into Account
+2023-03-01 17:13:34,870 - logger_file -INFO - User Click On Account Option
+2023-03-01 17:13:35,324 - logger_file -INFO - user click on edit address option
+2023-03-01 17:20:09,631 - logger_file -INFO - React App is equal to React App
+2023-03-01 17:20:10,231 - logger_file -INFO - User clicked on sign in button
+2023-03-01 17:20:11,580 - logger_file -INFO - User enter email and password
+2023-03-01 17:20:12,519 - logger_file -INFO - User click on lognin Button
+2023-03-01 17:20:14,018 - logger_file -INFO - user should be logged in into Account
+2023-03-01 17:20:15,562 - logger_file -INFO - User Click On Account Option
+2023-03-01 17:20:15,987 - logger_file -INFO - user click on edit address option
+2023-03-02 07:03:50,150 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:03:50,584 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:03:52,114 - logger_file -INFO - User enter email and password
+2023-03-02 07:03:53,755 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:03:54,456 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:03:55,855 - logger_file -INFO - User Click On Account Option
+2023-03-02 07:03:56,488 - logger_file -INFO - user click on edit address option
+2023-03-02 07:08:11,738 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:08:12,155 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:08:13,581 - logger_file -INFO - User enter email and password
+2023-03-02 07:08:15,472 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:08:16,051 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:08:17,354 - logger_file -INFO - User Click On Account Option
+2023-03-02 07:08:17,888 - logger_file -INFO - user click on edit address option
+2023-03-02 07:10:08,752 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:10:09,212 - logger_file -INFO - click on all section
+2023-03-02 07:10:14,260 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-03-02 07:12:53,582 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:12:54,016 - logger_file -INFO - click on all section
+2023-03-02 07:12:59,069 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-03-02 07:19:47,608 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:19:48,143 - logger_file -INFO - click on all section
+2023-03-02 07:19:53,187 - logger_file -INFO - user is on Electronics section
+2023-03-02 07:19:53,252 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2023-03-02 07:20:01,333 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:20:01,780 - logger_file -INFO - click on all section
+2023-03-02 07:20:06,826 - logger_file -INFO - user is on Computers section
+2023-03-02 07:20:06,885 - logger_file -INFO - Accessories options are present in departmentNetworking
+2023-03-02 07:20:13,410 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:20:13,794 - logger_file -INFO - click on all section
+2023-03-02 07:20:27,116 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:20:27,503 - logger_file -INFO - click on all section
+2023-03-02 07:20:32,545 - logger_file -INFO - user is on Sports section
+2023-03-02 07:20:32,607 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2023-03-02 07:20:39,340 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:20:39,737 - logger_file -INFO - click on all section
+2023-03-02 07:20:44,784 - logger_file -INFO - user is on Automotive section
+2023-03-02 07:20:44,858 - logger_file -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2023-03-02 07:24:00,025 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:24:00,440 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:24:01,905 - logger_file -INFO - User enter email and password
+2023-03-02 07:24:03,882 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:24:04,474 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:24:05,530 - logger_file -INFO - select smart home
+2023-03-02 07:24:05,810 - logger_file -INFO - search some thing
+2023-03-02 07:24:05,926 - logger_file -INFO - click on search
+2023-03-02 07:24:06,260 - logger_file -INFO - item add 
+2023-03-02 07:24:06,764 - logger_file -INFO - item count added
+2023-03-02 07:24:06,840 - logger_file -INFO - item added to cart
+2023-03-02 07:24:06,852 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:25:00,565 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:25:00,668 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:25:00,983 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:25:02,381 - logger_file -INFO - User enter email and password
+2023-03-02 07:25:04,154 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:25:04,889 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:25:05,791 - logger_file -INFO - select smart home
+2023-03-02 07:25:06,085 - logger_file -INFO - search some thing
+2023-03-02 07:25:06,193 - logger_file -INFO - click on search
+2023-03-02 07:25:06,503 - logger_file -INFO - item add 
+2023-03-02 07:25:07,020 - logger_file -INFO - item count added
+2023-03-02 07:25:07,082 - logger_file -INFO - item added to cart
+2023-03-02 07:25:07,093 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:25:07,251 - logger_file -INFO - place order
+2023-03-02 07:25:07,395 - logger_file -INFO - click on proceed
+2023-03-02 07:25:07,708 - logger_file -INFO - add Address
+2023-03-02 07:25:50,361 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:25:50,365 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:25:50,817 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:25:52,461 - logger_file -INFO - User enter email and password
+2023-03-02 07:25:53,759 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:25:54,362 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:25:55,381 - logger_file -INFO - select smart home
+2023-03-02 07:25:55,612 - logger_file -INFO - search some thing
+2023-03-02 07:25:55,760 - logger_file -INFO - click on search
+2023-03-02 07:25:56,091 - logger_file -INFO - item add 
+2023-03-02 07:25:56,551 - logger_file -INFO - item count added
+2023-03-02 07:25:56,664 - logger_file -INFO - item added to cart
+2023-03-02 07:25:56,676 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:25:56,844 - logger_file -INFO - place order
+2023-03-02 07:25:56,991 - logger_file -INFO - click on proceed
+2023-03-02 07:25:57,296 - logger_file -INFO - add Address
+2023-03-02 07:27:25,920 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:27:25,925 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:27:26,271 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:27:27,784 - logger_file -INFO - User enter email and password
+2023-03-02 07:27:29,269 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:27:29,823 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:27:29,929 - logger_file -INFO - select smart home
+2023-03-02 07:27:31,212 - logger_file -INFO - search some thing
+2023-03-02 07:27:31,420 - logger_file -INFO - click on search
+2023-03-02 07:27:31,696 - logger_file -INFO - item add 
+2023-03-02 07:27:32,155 - logger_file -INFO - item count added
+2023-03-02 07:27:32,319 - logger_file -INFO - item added to cart
+2023-03-02 07:27:32,331 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:27:32,486 - logger_file -INFO - place order
+2023-03-02 07:27:32,607 - logger_file -INFO - click on proceed
+2023-03-02 07:27:32,945 - logger_file -INFO - add Address
+2023-03-02 07:30:02,238 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:30:02,243 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:30:02,585 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:30:04,078 - logger_file -INFO - User enter email and password
+2023-03-02 07:30:05,818 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:30:06,456 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:30:07,086 - logger_file -INFO - select smart home
+2023-03-02 07:30:07,948 - logger_file -INFO - search some thing
+2023-03-02 07:30:08,182 - logger_file -INFO - click on search
+2023-03-02 07:30:08,521 - logger_file -INFO - item add 
+2023-03-02 07:30:09,011 - logger_file -INFO - item count added
+2023-03-02 07:30:09,096 - logger_file -INFO - item added to cart
+2023-03-02 07:30:09,107 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:30:09,289 - logger_file -INFO - place order
+2023-03-02 07:30:09,371 - logger_file -INFO - click on proceed
+2023-03-02 07:30:09,728 - logger_file -INFO - add Address
+2023-03-02 07:31:07,203 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:31:07,208 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:31:07,663 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:31:09,149 - logger_file -INFO - User enter email and password
+2023-03-02 07:31:10,964 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:31:11,565 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:31:12,578 - logger_file -INFO - select smart home
+2023-03-02 07:31:12,762 - logger_file -INFO - search some thing
+2023-03-02 07:31:12,954 - logger_file -INFO - click on search
+2023-03-02 07:31:13,290 - logger_file -INFO - item add 
+2023-03-02 07:31:13,743 - logger_file -INFO - item count added
+2023-03-02 07:31:13,830 - logger_file -INFO - item added to cart
+2023-03-02 07:31:13,842 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:31:14,034 - logger_file -INFO - place order
+2023-03-02 07:31:14,161 - logger_file -INFO - click on proceed
+2023-03-02 07:31:14,502 - logger_file -INFO - add Address
+2023-03-02 07:31:15,990 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:31:16,171 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:35:21,038 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:35:21,050 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:35:21,480 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:35:23,290 - logger_file -INFO - User enter email and password
+2023-03-02 07:35:25,213 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:35:25,909 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:35:27,005 - logger_file -INFO - select smart home
+2023-03-02 07:35:27,175 - logger_file -INFO - search some thing
+2023-03-02 07:35:27,413 - logger_file -INFO - click on search
+2023-03-02 07:35:27,734 - logger_file -INFO - item add 
+2023-03-02 07:35:28,197 - logger_file -INFO - item count added
+2023-03-02 07:35:28,325 - logger_file -INFO - item added to cart
+2023-03-02 07:35:28,336 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:35:28,481 - logger_file -INFO - place order
+2023-03-02 07:35:28,581 - logger_file -INFO - click on proceed
+2023-03-02 07:35:28,907 - logger_file -INFO - add Address
+2023-03-02 07:35:30,675 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:35:30,816 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:37:41,815 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:37:41,820 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:37:42,260 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:37:43,621 - logger_file -INFO - User enter email and password
+2023-03-02 07:37:45,423 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:37:46,016 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:37:47,015 - logger_file -INFO - select smart home
+2023-03-02 07:37:47,151 - logger_file -INFO - search some thing
+2023-03-02 07:37:47,341 - logger_file -INFO - click on search
+2023-03-02 07:37:47,670 - logger_file -INFO - item add 
+2023-03-02 07:37:48,211 - logger_file -INFO - item count added
+2023-03-02 07:37:48,277 - logger_file -INFO - item added to cart
+2023-03-02 07:37:48,289 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:37:48,445 - logger_file -INFO - place order
+2023-03-02 07:37:48,582 - logger_file -INFO - click on proceed
+2023-03-02 07:37:48,913 - logger_file -INFO - add Address
+2023-03-02 07:37:50,474 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:37:50,605 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:37:50,950 - logger_file -INFO - click on new payment
+2023-03-02 07:37:51,485 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 07:37:51,570 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 07:37:51,921 - logger_file -INFO - placeOrder
+2023-03-02 07:37:52,431 - logger_file -INFO - order placed
+2023-03-02 07:38:52,518 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:38:52,523 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:38:52,960 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:38:55,139 - logger_file -INFO - User enter email and password
+2023-03-02 07:38:56,337 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:38:56,995 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:38:58,036 - logger_file -INFO - select smart home
+2023-03-02 07:38:58,154 - logger_file -INFO - search some thing
+2023-03-02 07:38:58,374 - logger_file -INFO - click on search
+2023-03-02 07:38:58,717 - logger_file -INFO - secound item added
+2023-03-02 07:38:59,170 - logger_file -INFO - item count added
+2023-03-02 07:38:59,288 - logger_file -INFO - item added to cart
+2023-03-02 07:38:59,550 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:38:59,739 - logger_file -INFO - place order
+2023-03-02 07:38:59,867 - logger_file -INFO - click on proceed
+2023-03-02 07:38:59,906 - logger_file -INFO - placeOrder
+2023-03-02 07:39:00,498 - logger_file -INFO - order placed
+2023-03-02 07:40:10,512 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:40:10,936 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:40:12,354 - logger_file -INFO - User enter email and password
+2023-03-02 07:40:13,780 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:40:14,793 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:43:54,242 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:43:54,622 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:43:56,081 - logger_file -INFO - User enter email and password
+2023-03-02 07:43:57,705 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:43:58,269 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:45:31,414 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:45:31,419 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:45:31,853 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:45:33,179 - logger_file -INFO - User enter email and password
+2023-03-02 07:45:34,845 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:45:35,587 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:45:36,166 - logger_file -INFO - select smart home
+2023-03-02 07:45:36,872 - logger_file -INFO - search some thing
+2023-03-02 07:45:37,008 - logger_file -INFO - click on search
+2023-03-02 07:45:37,318 - logger_file -INFO - item add 
+2023-03-02 07:45:37,783 - logger_file -INFO - item count added
+2023-03-02 07:45:37,896 - logger_file -INFO - item added to cart
+2023-03-02 07:45:38,196 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:45:38,391 - logger_file -INFO - place order
+2023-03-02 07:45:38,529 - logger_file -INFO - click on proceed
+2023-03-02 07:45:38,946 - logger_file -INFO - add Address
+2023-03-02 07:45:40,604 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:45:40,739 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:45:41,076 - logger_file -INFO - click on new payment
+2023-03-02 07:45:41,570 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 07:45:41,623 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 07:49:53,011 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:49:53,016 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:49:53,405 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:49:55,921 - logger_file -INFO - User enter email and password
+2023-03-02 07:49:57,111 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:49:57,752 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:49:58,803 - logger_file -INFO - select smart home
+2023-03-02 07:49:58,966 - logger_file -INFO - search some thing
+2023-03-02 07:49:59,121 - logger_file -INFO - click on search
+2023-03-02 07:49:59,440 - logger_file -INFO - item add 
+2023-03-02 07:49:59,858 - logger_file -INFO - item count added
+2023-03-02 07:49:59,976 - logger_file -INFO - item added to cart
+2023-03-02 07:49:59,987 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:50:00,174 - logger_file -INFO - place order
+2023-03-02 07:50:00,260 - logger_file -INFO - click on proceed
+2023-03-02 07:50:00,599 - logger_file -INFO - add Address
+2023-03-02 07:50:02,173 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:50:02,302 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:50:02,664 - logger_file -INFO - click on new payment
+2023-03-02 07:50:03,264 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 07:50:03,408 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 07:50:58,744 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:50:58,765 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:50:59,164 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:51:00,780 - logger_file -INFO - User enter email and password
+2023-03-02 07:51:02,356 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:51:02,974 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:51:04,004 - logger_file -INFO - select smart home
+2023-03-02 07:51:04,219 - logger_file -INFO - search some thing
+2023-03-02 07:51:04,331 - logger_file -INFO - click on search
+2023-03-02 07:51:04,638 - logger_file -INFO - item add 
+2023-03-02 07:51:05,078 - logger_file -INFO - item count added
+2023-03-02 07:51:05,200 - logger_file -INFO - item added to cart
+2023-03-02 07:51:05,212 - logger_file -INFO - item added to cart successfully
+2023-03-02 07:51:05,438 - logger_file -INFO - place order
+2023-03-02 07:51:05,566 - logger_file -INFO - click on proceed
+2023-03-02 07:51:05,853 - logger_file -INFO - add Address
+2023-03-02 07:51:07,373 - logger_file -INFO - user fill new address form with below information
+2023-03-02 07:51:07,507 - logger_file -INFO - user click on Add Your Address
+2023-03-02 07:51:07,869 - logger_file -INFO - click on new payment
+2023-03-02 07:51:08,354 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 07:51:08,437 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 07:51:08,794 - logger_file -INFO - placeOrder
+2023-03-02 07:51:09,284 - logger_file -INFO - order placed
+2023-03-02 07:51:38,505 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:51:38,909 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:51:40,349 - logger_file -INFO - User enter email and password
+2023-03-02 07:51:42,164 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:51:42,837 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:58:03,836 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:58:04,200 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:58:06,270 - logger_file -INFO - User enter email and password
+2023-03-02 07:58:07,374 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:58:07,968 - logger_file -INFO - user should be logged in into Account
+2023-03-02 07:58:43,689 - logger_file -INFO - React App is equal to React App
+2023-03-02 07:58:44,128 - logger_file -INFO - User clicked on sign in button
+2023-03-02 07:58:45,318 - logger_file -INFO - User enter email and password
+2023-03-02 07:58:47,101 - logger_file -INFO - User click on lognin Button
+2023-03-02 07:58:47,707 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:02:01,309 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:02:01,931 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:02:03,670 - logger_file -INFO - User enter email and password
+2023-03-02 08:02:04,717 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:02:05,919 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:02:07,152 - logger_file -INFO - click on order
+2023-03-02 08:02:12,394 - logger_file -INFO - click on cancel
+2023-03-02 08:02:12,498 - logger_file -INFO - choose the resone
+2023-03-02 08:02:12,574 - logger_file -INFO - ordercancelled
+2023-03-02 08:09:48,913 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:09:49,349 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:09:51,321 - logger_file -INFO - User enter email and password
+2023-03-02 08:09:52,523 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:09:53,069 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:09:54,338 - logger_file -INFO - click on order
+2023-03-02 08:12:06,029 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:12:06,034 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:12:06,524 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:12:07,976 - logger_file -INFO - User enter email and password
+2023-03-02 08:12:09,690 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:12:10,282 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:12:11,176 - logger_file -INFO - select smart home
+2023-03-02 08:12:11,439 - logger_file -INFO - search some thing
+2023-03-02 08:12:11,612 - logger_file -INFO - click on search
+2023-03-02 08:12:11,935 - logger_file -INFO - item add 
+2023-03-02 08:12:12,524 - logger_file -INFO - item count added
+2023-03-02 08:12:12,576 - logger_file -INFO - item added to cart
+2023-03-02 08:12:12,801 - logger_file -INFO - item added to cart successfully
+2023-03-02 08:12:13,002 - logger_file -INFO - place order
+2023-03-02 08:12:13,155 - logger_file -INFO - click on proceed
+2023-03-02 08:12:13,422 - logger_file -INFO - add Address
+2023-03-02 08:12:15,030 - logger_file -INFO - user fill new address form with below information
+2023-03-02 08:12:15,157 - logger_file -INFO - user click on Add Your Address
+2023-03-02 08:12:15,516 - logger_file -INFO - click on new payment
+2023-03-02 08:12:15,972 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 08:12:16,110 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 08:12:16,461 - logger_file -INFO - placeOrder
+2023-03-02 08:12:16,971 - logger_file -INFO - order placed
+2023-03-02 08:12:29,731 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:12:30,134 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:12:31,771 - logger_file -INFO - User enter email and password
+2023-03-02 08:12:33,448 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:12:34,097 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:12:35,414 - logger_file -INFO - click on order
+2023-03-02 08:12:40,719 - logger_file -INFO - click on cancel
+2023-03-02 08:12:40,816 - logger_file -INFO - choose the resone
+2023-03-02 08:12:40,874 - logger_file -INFO - ordercancelled
+2023-03-02 08:15:20,997 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:15:21,328 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:15:23,512 - logger_file -INFO - User enter email and password
+2023-03-02 08:15:24,493 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:15:25,096 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:15:26,286 - logger_file -INFO - click on order
+2023-03-02 08:16:27,443 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:16:27,448 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:16:27,853 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:16:29,451 - logger_file -INFO - User enter email and password
+2023-03-02 08:16:31,202 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:16:31,857 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:16:32,837 - logger_file -INFO - select smart home
+2023-03-02 08:16:33,037 - logger_file -INFO - search some thing
+2023-03-02 08:16:33,267 - logger_file -INFO - click on search
+2023-03-02 08:16:33,614 - logger_file -INFO - item add 
+2023-03-02 08:16:34,163 - logger_file -INFO - item count added
+2023-03-02 08:16:34,210 - logger_file -INFO - item added to cart
+2023-03-02 08:16:34,564 - logger_file -INFO - item added to cart successfully
+2023-03-02 08:16:34,761 - logger_file -INFO - place order
+2023-03-02 08:16:34,918 - logger_file -INFO - click on proceed
+2023-03-02 08:16:35,288 - logger_file -INFO - add Address
+2023-03-02 08:16:36,808 - logger_file -INFO - user fill new address form with below information
+2023-03-02 08:16:36,935 - logger_file -INFO - user click on Add Your Address
+2023-03-02 08:16:37,282 - logger_file -INFO - click on new payment
+2023-03-02 08:16:37,772 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 08:16:37,826 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 08:16:38,216 - logger_file -INFO - placeOrder
+2023-03-02 08:16:38,730 - logger_file -INFO - order placed
+2023-03-02 08:16:51,762 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:16:52,305 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:16:54,847 - logger_file -INFO - User enter email and password
+2023-03-02 08:16:55,892 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:16:56,546 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:16:57,863 - logger_file -INFO - click on order
+2023-03-02 08:17:03,091 - logger_file -INFO - click on cancel
+2023-03-02 08:17:03,184 - logger_file -INFO - choose the resone
+2023-03-02 08:17:03,245 - logger_file -INFO - ordercancelled
+2023-03-02 08:17:03,255 - logger_file -INFO - order canceled successfully
+2023-03-02 08:18:43,905 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:18:43,910 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:18:44,415 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:18:45,945 - logger_file -INFO - User enter email and password
+2023-03-02 08:18:47,754 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:18:48,373 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:18:49,421 - logger_file -INFO - select smart home
+2023-03-02 08:18:49,596 - logger_file -INFO - search some thing
+2023-03-02 08:18:49,787 - logger_file -INFO - click on search
+2023-03-02 08:18:50,102 - logger_file -INFO - item add 
+2023-03-02 08:18:50,549 - logger_file -INFO - item count added
+2023-03-02 08:18:50,620 - logger_file -INFO - item added to cart
+2023-03-02 08:18:50,913 - logger_file -INFO - item added to cart successfully
+2023-03-02 08:18:51,099 - logger_file -INFO - place order
+2023-03-02 08:18:51,233 - logger_file -INFO - click on proceed
+2023-03-02 08:18:51,567 - logger_file -INFO - add Address
+2023-03-02 08:18:53,240 - logger_file -INFO - user fill new address form with below information
+2023-03-02 08:18:53,379 - logger_file -INFO - user click on Add Your Address
+2023-03-02 08:18:53,719 - logger_file -INFO - click on new payment
+2023-03-02 08:18:54,210 - logger_file -INFO - user Fill Debit or Credit Card Information
+2023-03-02 08:18:54,272 - logger_file -INFO - user Click on Add Your Card Button
+2023-03-02 08:18:54,619 - logger_file -INFO - placeOrder
+2023-03-02 08:18:55,116 - logger_file -INFO - order placed
+2023-03-02 08:19:32,253 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:19:32,662 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:19:34,128 - logger_file -INFO - User enter email and password
+2023-03-02 08:19:35,703 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:19:36,401 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:19:37,400 - logger_file -INFO - click on order
+2023-03-02 08:19:42,684 - logger_file -INFO - click on return 
+2023-03-02 08:19:47,807 - logger_file -INFO -  Choose return resone
+2023-03-02 08:19:47,866 - logger_file -INFO - choose drop of location
+2023-03-02 08:19:47,961 - logger_file -INFO - item returned
+2023-03-02 08:19:48,239 - logger_file -INFO - the message was displayed
+2023-03-02 08:22:40,519 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:22:40,949 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:22:43,259 - logger_file -INFO - User enter email and password
+2023-03-02 08:22:44,456 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:22:45,656 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:22:46,274 - logger_file -INFO - click on order
+2023-03-02 08:22:51,675 - logger_file -INFO - add Review
+2023-03-02 08:22:52,636 - logger_file -INFO - user review the order
+2023-03-02 08:22:52,761 - logger_file -INFO - click on add review
+2023-03-02 08:24:12,195 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:24:12,632 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:24:13,808 - logger_file -INFO - User enter email and password
+2023-03-02 08:24:15,675 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:24:16,251 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:24:17,415 - logger_file -INFO - click on order
+2023-03-02 08:24:22,906 - logger_file -INFO - add Review
+2023-03-02 08:24:23,505 - logger_file -INFO - user review the order
+2023-03-02 08:24:23,585 - logger_file -INFO - click on add review
+2023-03-02 08:26:48,323 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:26:48,893 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:26:50,307 - logger_file -INFO - User enter email and password
+2023-03-02 08:26:52,051 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:26:52,715 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:26:53,962 - logger_file -INFO - click on order
+2023-03-02 08:26:59,414 - logger_file -INFO - add Review
+2023-03-02 08:26:59,886 - logger_file -INFO - user review the order
+2023-03-02 08:27:00,061 - logger_file -INFO - click on add review
+2023-03-02 08:28:51,521 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:28:51,944 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:28:53,205 - logger_file -INFO - User enter email and password
+2023-03-02 08:28:55,119 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:28:55,710 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:28:57,010 - logger_file -INFO - click on order
+2023-03-02 08:29:02,434 - logger_file -INFO - add Review
+2023-03-02 08:29:02,974 - logger_file -INFO - user review the order
+2023-03-02 08:29:03,045 - logger_file -INFO - click on add review
+2023-03-02 08:33:01,319 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:33:01,668 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:33:03,052 - logger_file -INFO - User enter email and password
+2023-03-02 08:33:04,680 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:33:05,332 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:33:05,506 - logger_file -INFO - click on order
+2023-03-02 08:33:10,935 - logger_file -INFO - add Review
+2023-03-02 08:33:11,472 - logger_file -INFO - user review the order
+2023-03-02 08:36:56,626 - logger_file -INFO - React App is equal to React App
+2023-03-02 08:36:57,083 - logger_file -INFO - User clicked on sign in button
+2023-03-02 08:36:59,260 - logger_file -INFO - User enter email and password
+2023-03-02 08:37:00,580 - logger_file -INFO - User click on lognin Button
+2023-03-02 08:37:01,416 - logger_file -INFO - user should be logged in into Account
+2023-03-02 08:37:02,726 - logger_file -INFO - click on order
+2023-03-02 08:37:08,152 - logger_file -INFO - add Review
+2023-03-02 08:37:08,662 - logger_file -INFO - user review the order
+2023-03-02 08:37:08,729 - logger_file -INFO - click on add review
+2023-03-02 08:37:09,614 - logger_file -INFO - review the order
+2023-03-02 20:50:42,440 - logger_file -INFO - React App is equal to React App
+2023-03-02 20:50:42,934 - logger_file -INFO - User clicked on sign in button
+2023-03-02 20:50:44,500 - logger_file -INFO - User enter email and password
+2023-03-02 20:50:46,242 - logger_file -INFO - User click on lognin Button
+2023-03-02 20:50:46,838 - logger_file -INFO - user should be logged in into Account
+2023-03-02 20:50:48,282 - logger_file -INFO - User Click On Account Option
+2023-03-02 20:50:48,637 - logger_file -INFO - user click on edit address option
+2023-03-02 20:52:50,896 - logger_file -INFO - React App is equal to React App
+2023-03-02 20:52:51,341 - logger_file -INFO - User clicked on sign in button
+2023-03-02 20:52:53,059 - logger_file -INFO - User enter email and password
+2023-03-02 20:52:54,417 - logger_file -INFO - User click on lognin Button
+2023-03-02 20:52:55,057 - logger_file -INFO - user should be logged in into Account
+2023-03-02 20:52:56,470 - logger_file -INFO - User Click On Account Option
+2023-03-02 20:52:56,811 - logger_file -INFO - user click on edit address option
+2023-03-02 20:52:58,743 - logger_file -INFO - user fill new address form with below information
+2023-03-02 20:52:58,874 - logger_file -INFO - user click update your address button
+2023-03-03 10:18:13,624 - logger_file -INFO - React App is equal to React App
+2023-03-03 10:18:14,088 - logger_file -INFO - User clicked on sign in button
+2023-03-03 10:18:15,622 - logger_file -INFO - User enter email and password
+2023-03-03 10:18:17,333 - logger_file -INFO - User click on lognin Button
+2023-03-03 10:18:17,901 - logger_file -INFO - user should be logged in into Account
+2023-03-03 10:18:19,361 - logger_file -INFO - User Click On Account Option
+2023-03-03 10:18:19,901 - logger_file -INFO - user click on edit address option
+2023-03-03 10:18:21,812 - logger_file -INFO - user fill new address form with below information
+2023-03-03 10:18:21,945 - logger_file -INFO - user click update your address button
+2023-03-03 11:36:18,289 - logger_file -INFO - React App is equal to React App
+2023-03-03 11:36:18,827 - logger_file -INFO - User clicked on sign in button
+2023-03-03 11:36:21,276 - logger_file -INFO - User enter email and password
+2023-03-03 11:36:22,692 - logger_file -INFO - User click on lognin Button
+2023-03-03 11:36:23,393 - logger_file -INFO - user should be logged in into Account
+2023-03-03 11:36:24,894 - logger_file -INFO - User Click On Account Option
+2023-03-03 11:36:25,322 - logger_file -INFO - user click on edit address option
+2023-03-03 11:36:27,142 - logger_file -INFO - user fill new address form with below information
+2023-03-03 11:36:27,215 - logger_file -INFO - user click update your address button
+2023-03-03 11:37:42,818 - logger_file -INFO - React App is equal to React App
+2023-03-03 11:37:43,310 - logger_file -INFO - User clicked on sign in button
+2023-03-03 11:37:44,597 - logger_file -INFO - User enter email and password
+2023-03-03 11:37:45,993 - logger_file -INFO - User click on lognin Button
+2023-03-03 11:37:47,305 - logger_file -INFO - user should be logged in into Account
+2023-03-03 11:37:48,920 - logger_file -INFO - User Click On Account Option
+2023-03-03 11:37:49,428 - logger_file -INFO - user click on edit address option
+2023-03-03 11:37:51,244 - logger_file -INFO - user fill new address form with below information
+2023-03-03 11:37:51,315 - logger_file -INFO - user click update your address button
+2023-03-03 11:42:39,202 - logger_file -INFO - React App is equal to React App
+2023-03-03 11:42:39,794 - logger_file -INFO - User clicked on sign in button
+2023-03-03 11:42:41,898 - logger_file -INFO - User enter email and password
+2023-03-03 11:42:43,878 - logger_file -INFO - User click on lognin Button
+2023-03-03 11:42:44,313 - logger_file -INFO - user should be logged in into Account
+2023-03-03 11:42:45,822 - logger_file -INFO - User Click On Account Option
+2023-03-03 11:42:46,298 - logger_file -INFO - user click on edit address option
+2023-03-03 11:42:51,079 - logger_file -INFO - user fill new address form with below information
+2023-03-03 11:42:51,236 - logger_file -INFO - user click update your address button
+2023-03-03 11:44:44,013 - logger_file -INFO - React App is equal to React App
+2023-03-03 11:44:44,481 - logger_file -INFO - User clicked on sign in button
+2023-03-03 11:44:46,097 - logger_file -INFO - User enter email and password
+2023-03-03 11:44:48,156 - logger_file -INFO - User click on lognin Button
+2023-03-03 11:44:48,854 - logger_file -INFO - user should be logged in into Account
+2023-03-03 11:44:50,329 - logger_file -INFO - User Click On Account Option
+2023-03-03 11:44:50,679 - logger_file -INFO - user click on edit address option
+2023-03-03 11:44:58,366 - logger_file -INFO - user fill new address form with below information
+2023-03-03 11:44:58,445 - logger_file -INFO - user click update your address button
+2023-03-03 11:46:40,308 - logger_file -INFO - React App is equal to React App
+2023-03-03 11:46:40,882 - logger_file -INFO - User clicked on sign in button
+2023-03-03 11:46:42,269 - logger_file -INFO - User enter email and password
+2023-03-03 11:46:43,925 - logger_file -INFO - User click on lognin Button
+2023-03-03 11:46:44,966 - logger_file -INFO - user should be logged in into Account
+2023-03-03 11:46:46,399 - logger_file -INFO - User Click On Account Option
+2023-03-03 11:46:47,008 - logger_file -INFO - user click on edit address option
+2023-03-03 11:46:54,738 - logger_file -INFO - user fill new address form with below information
+2023-03-03 11:46:54,811 - logger_file -INFO - user click update your address button

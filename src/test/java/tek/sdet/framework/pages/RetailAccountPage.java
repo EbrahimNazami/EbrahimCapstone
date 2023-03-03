@@ -134,7 +134,7 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath = "//select[@id='countryDropdown']")
 	public WebElement countryDropDown;
 	
-	@FindBy(xpath = "//input[@id='fullNameInput']")
+	@FindBy(id = "fullNameInput")
 	public WebElement fullNameOnAddress;
 	
 	@FindBy(xpath = "//input[@id='phoneNumberInput']")
@@ -174,7 +174,7 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath ="//button[@id='addressBtn']")
 	public WebElement updatYourAddressButton;
 	
-	@FindBy(xpath= "//div[@id='50xeznz']")
+	@FindBy(xpath= "//div[contains(text(),'Address Updated Successfully')]")
 	public WebElement addressUpdateMessage;
 	
 	
@@ -187,7 +187,8 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy (xpath = "//button[contains(text(),'Remove')]")
 	public WebElement RemoveAddressLink;
 	
-	
+	@FindBy (xpath = "//img[@id='profileImage']")
+	public WebElement ProfilePicture;
 	
 	
 	

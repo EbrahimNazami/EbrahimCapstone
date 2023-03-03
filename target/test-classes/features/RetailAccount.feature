@@ -3,7 +3,7 @@ Feature: Creat Account
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@123456'
+    And User enter email 'ebrahimphantem@tekschool.us' and password 'Tek@12345'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
@@ -20,7 +20,7 @@ Feature: Creat Account
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@12345        | Tek@123456  | Tek@123456      |
+      | Tek@123456      | Tek@12345   | Tek@12345       |
     And User click on Change Password button
     Then a Profile Update message should be displayed 'Password Updated Successfully'
 
@@ -28,8 +28,8 @@ Feature: Creat Account
   Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
-      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4813111122253224 | Ebrahim Nazami    |              08 |           2023 |          804 |
+      | cardNumber       | nameOnCard     | expirationMonth | expirationYear | securityCode |
+      | 4813118212253224 | Ebrahim Nazami |              09 |           2024 |          809 |
     And User click on Add your card button
     Then an Update Payment message should be displayed 'Payment Method added sucessfully'
 
@@ -38,8 +38,8 @@ Feature: Creat Account
     And User click on Edit option of card section
     And User click on edit link
     And user edit information with below data
-      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4812222233334444 | Nazami     |              08 |           2026 |          890 |
+      | cardNumber       | nameOnCard     | expirationMonth | expirationYear | securityCode |
+      | 4812222233389444 | Nazami Ebrahim |              10 |           2025 |          890 |
     And user click on Update Your Card button
     Then a message should be displayed'Payment Method updated Successfully'
 
@@ -54,8 +54,8 @@ Feature: Creat Account
   Scenario: Verify User can add an Address
     And User click on Add address option
     And user fill new address form with below information
-      | country       | fullName       | phoneNumber | streetAddress | apt | City          | state      | zipCode |
-      | United States | Ebrahim Nazami |  1234567890 | 100Home st    | 234 | San Francisco | California |   95690 |
+      | country       | fullName       | phoneNumber | streetAddress | apt | City      | state      | zipCode |
+      | United States | Ebrahim Nazami |  1234567890 | 101Home st    | 274 | Carmichel | California |   95690 |
     And User click Add Your Address button
     Then an update address message should be displayed 'Address Added Successfully'
 
@@ -63,13 +63,12 @@ Feature: Creat Account
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And user fill new  update address form with below information
-      | country       | fullName       | phoneNumber | streetAddress  | apt | city       | state  | zipCode |
-      | United States | Nazami Ebrahim |  9876543210 | 200 Sweet Home |  56 | Sacramento | Hawaii |   90553 |
+      | country       | fullName       | phoneNumber | streetAddress | apt | city       | state      | zipCode |
+      | United States | Nazami Ebrahim |  9876543210 | 200Angle st   |  56 | Sacramento | California |   95608 |
     And User click update Your Address button
     Then an edit address message should be displayed 'Address Updated Successfully'
 
-  @Removepayment
-  Scenario: Verify User can remove Debit or Credit card
-    And user click on last payment
-    And User click on remove option of card section
-    Then payment details should be removed
+  @RemoveAddress
+  Scenario: Verify User can remove Address from Account
+    And User click on remove option of Address section
+    Then Address details should be removed

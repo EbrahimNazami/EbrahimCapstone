@@ -1,6 +1,7 @@
 package tek.sdet.framework.steps;
 
 import java.util.List;
+import java.util.Map;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -19,19 +20,6 @@ public class HomeSteps extends CommonUtility{
 	POMFactory factory = new POMFactory();
 
 
-
-//	@Given("User is on retail website")
-//	public void userIsOnRetailWebsite() {
-//	String expectedTitle = "React App";
-//	String actualTitle = getTitle();
-//	Assert.assertEquals(expectedTitle, actualTitle);
-//	logger.info(actualTitle +" is equal to "+ expectedTitle);
-//	}
-	
-	
-	
-	
-	
 	
 	//------------- Shop By 1 ------------
 	
@@ -77,7 +65,6 @@ public class HomeSteps extends CommonUtility{
 	            Assert.assertTrue(isElementDisplayed(factory.homePage().Sports));
 	            logger.info("user is on Sports section");
 	            break;
-	            
 	        case "Automotive":
 	            Assert.assertTrue(isElementDisplayed(factory.homePage().Automative));
 	            logger.info("user is on Automotive section");
@@ -214,25 +201,43 @@ public class HomeSteps extends CommonUtility{
 	logger.info("add Address");
 	
 	}
+	@Then("User fill new address form with below information")
+	public void userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable dataTable) {
+		List<Map<String, String>> addAddress = dataTable.asMaps(String.class, String.class);
+		selectByVisibleText(factory.accountPage().countryDropDown, addAddress.get(0).get("country"));
+		sendText(factory.accountPage().fullNameOnAddress, addAddress.get(0).get("fullName"));
+		sendText(factory.accountPage().phoneNumberOnAddress, addAddress.get(0).get("phoneNumber"));
+		sendText(factory.accountPage().Street, addAddress.get(0).get("streetAddress"));
+		sendText(factory.accountPage().APT, addAddress.get(0).get("apt"));
+		sendText(factory.accountPage().City, addAddress.get(0).get("city"));
+		selectByVisibleText(factory.accountPage().stateDropDown, addAddress.get(0).get("state"));
+		sendText(factory.accountPage().ZipCoade, addAddress.get(0).get("zipCode"));
+		logger.info("user fill new address form with below information");
+		
+	}
+	 @And ("User click Add Your Address button on cart")
+	 public void userClickOnAddNewAddressOnCart() {
+		 click(factory.homePage().AddYourAddressCartAddress);
+		 logger.info("user click on Add Your Address");
+	 }
 	@And("User click on add new payment")
 	public void userClickOnAddNewPayment() {
-	
-	click(factory.homePage().AddNewPayment);
+	click(factory.homePage().AddaCreditOrDebitCard);
 	logger.info("click on new payment");
 	
 	}
 	@And("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-	click(factory.homePage().palceOrder); 
+	click(factory.homePage().PalaceOrder); 
 	logger.info("placeOrder");
 	
 	}
-	@Then("there is a massage {string}")
-	public void thereIsAMassage(String Massage) {
-	Assert.assertTrue(isElementDisplayed(factory.homePage().NewMassage));
-	 logger.info ("recived massage");
-
+	@Then ("there is a massage {string}")
+	public void thereIsMessage(String string) {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().Confirmition));
+		logger.info("order placed");
 	}
+	
 
 	
 	

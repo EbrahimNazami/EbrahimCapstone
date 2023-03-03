@@ -134,15 +134,44 @@ public class RetailHomePage extends BaseSetup {
 		@FindBy(xpath="//button[@id='addAddressBtn']")
 		public WebElement addNewAddress;
 		
-		@FindBy(id="addPaymentBtn")
-		public WebElement AddNewPayment;
+		@FindBy(xpath="//select[@id='countryDropdown']")
+		public WebElement countryDropDownOnCartAddress;
+		
+		@FindBy(xpath="//input[@id='fullNameInput']")
+		public WebElement FullNameCartAddress;
+		
+		@FindBy(xpath="//input[@id='phoneNumberInput']")
+		public WebElement phoneOnCartAddress;
+		
+		@FindBy(xpath="//input[@id='streetInput']")
+		public WebElement streetAddressCartAddress;
+		
+		@FindBy(xpath="//input[@id='apartmentInput']")
+		public WebElement APTCartAddress;
+		
+		@FindBy(id="cityInput")
+		public WebElement CityCartAddress;
+		
+		@FindBy(xpath="//select[@whitelist='[object Object]']")
+		public WebElement StateDropDownCartAddress;
+		
+		@FindBy(xpath="//input[@id='zipCodeInput']")
+		public WebElement ZipCodeCartAddress;
+		
+		@FindBy(xpath="//button[@id='addressBtn']")
+		public WebElement AddYourAddressCartAddress;
+		
+		@FindBy(xpath="//button[@id='addPaymentBtn']")
+		public WebElement AddaCreditOrDebitCard;
 		
 		@FindBy(xpath="//button[text()='Place Your Order']")
-		public WebElement palceOrder;
+		public WebElement PalaceOrder;
 		
-		@FindBy(xpath="//div[text()='Order Placed, Thanks'")
-		public WebElement NewMassage;
+		@FindBy(xpath="//div[contains(text(),'Order Placed Successfully')]")
+		public WebElement orderplacedMessage;
 		
+		@FindBy (xpath = "//p[contains(text(),'Order Placed, Thanks')]")
+		public WebElement Confirmition;
 		
 	
 		

@@ -69,7 +69,7 @@ public class RetailAccountSteps extends CommonUtility{
 	@Then("a Profile Update message should be displayed {string}")
 	public void aMessageShouldBeDisplayed(String string) {
 		waitTillPresence(factory.accountPage().changePasswordMessagePopUp);
-		String message="Password Updated Successfully";
+		String message= string;
 		String result = getElementText(factory.accountPage().changePasswordMessagePopUp);
 		Assert.assertEquals(message, result);
 		logger.info("password changed");
@@ -135,14 +135,13 @@ public class RetailAccountSteps extends CommonUtility{
 	@And ("user edit information with below data")
 	public void userEditInformationWithBelowData(DataTable dataTable) {
 		List<Map<String, String>> payment = dataTable.asMaps(String.class, String.class);
-		
-		clearTextUsingSendKeys(factory.accountPage().cardNumber);
+		clearText(factory.accountPage().cardNumber);
 		sendText(factory.accountPage().cardNumber,payment.get(0).get("cardNumber"));
-		clearTextUsingSendKeys(factory.accountPage().nameOncard);
+		clearText(factory.accountPage().nameOncard);
 		sendText(factory.accountPage().nameOncard,payment.get(0).get("nameOnCard"));
 		selectByVisibleText(factory.accountPage().expirationMonthDropDown, payment.get(0).get("expirationMonth"));
 		selectByVisibleText(factory.accountPage().exprirationYearDropDown,payment.get(0).get("expirationYear"));
-		clearTextUsingSendKeys(factory.accountPage().securityCode);
+		clearText(factory.accountPage().securityCode);
 		sendText(factory.accountPage().securityCode,payment.get(0).get("securityCode"));
 		logger.info("userDebitOrCreditCardInformation");
 		}
@@ -175,18 +174,18 @@ public class RetailAccountSteps extends CommonUtility{
 		click(factory.accountPage().paymentEdit);
 		logger.info("User Click on Edit Payment Method");
 	}
-	
-//	@And ("User click on remove option of card section")
-//	public void userClickOnRemoveOptionOfCardSections() {
-//		click(factory.accountPage().removePayment);
-//		logger.info("User click on remove option");
-//	}
-	
-//	@Then("payment details should be removed")
-//	public void paymentDetailsShouldBeRemove() {
-//		Assert.assertTrue(isElementDisplayed(factory.accountPage().walletText));
-//		logger.info("payment details should be removed");
-//	}
+	@And ("User click on remove option of card section")
+	public void userClickOnRemoveOptionOfVardSection() {
+	click(factory.accountPage().removePayment);
+	logger.info("user removed the payment");
+   	
+	}
+	@Then ("payment details should be removed")
+	public void paymentDetailsShouldbeRemoved() {
+	Assert.assertTrue(isElementDisplayed(factory.accountPage().addPaymentLink));	
+	logger.info("payment details should be remove");
+	}
+
 
 	
 	
@@ -203,15 +202,15 @@ public class RetailAccountSteps extends CommonUtility{
 	}
 	
 	@And ("user fill new address form with below information")
-	public void userFillNewAddressFormWithBelowInformation1(io.cucumber.datatable.DataTable dataTable) {
+	public void userFillNewAddressFormWithBelowInformation1(DataTable dataTable) {
 		List<Map<String, String>> addAddress = dataTable.asMaps(String.class, String.class);
-		sendText(factory.accountPage().countryDropDown, addAddress.get(0).get("country"));
+		selectByVisibleText(factory.accountPage().countryDropDown, addAddress.get(0).get("country"));
 		sendText(factory.accountPage().fullNameOnAddress, addAddress.get(0).get("fullName"));
 		sendText(factory.accountPage().phoneNumberOnAddress, addAddress.get(0).get("phoneNumber"));
 		sendText(factory.accountPage().Street, addAddress.get(0).get("streetAddress"));
 		sendText(factory.accountPage().APT, addAddress.get(0).get("apt"));
 		sendText(factory.accountPage().City, addAddress.get(0).get("City"));
-		sendText(factory.accountPage().stateDropDown, addAddress.get(0).get("state"));
+		selectByVisibleText(factory.accountPage().stateDropDown, addAddress.get(0).get("state"));
 		sendText(factory.accountPage().ZipCoade, addAddress.get(0).get("zipCode"));
 		logger.info("user fill new address form with below information");
 	}
@@ -242,34 +241,32 @@ public class RetailAccountSteps extends CommonUtility{
 		click(factory.accountPage().editAddressLink);
 		logger.info("user click on edit address option");
 	}
-	
 	@ And ("user fill new  update address form with below information")
-	public void userFillNewAddressFormWithBelowInforamtion(DataTable dataTable) {
+	public void userFillNewAddressFormWithBelowInforamtion(DataTable dataTable) throws InterruptedException {
 		List<Map<String, String>> editAddress = dataTable.asMaps(String.class, String.class);
 		selectByVisibleText(factory.accountPage().countryDropDown, editAddress.get(0).get("country"));
-		clearTextUsingSendKeys(factory.accountPage().fullNameOnAddress);
+		clearElementValue(factory.accountPage().fullNameOnAddress);
 		sendText(factory.accountPage().fullNameOnAddress, editAddress.get(0).get("fullName"));
-		clearTextUsingSendKeys(factory.accountPage().phoneNumberOnAddress);
+		Thread.sleep(3000);
+		clearElementValue(factory.accountPage().phoneNumberOnAddress);
+		Thread.sleep(3000);
 		sendText(factory.accountPage().phoneNumberOnAddress, editAddress.get(0).get("phoneNumber"));
-		clearTextUsingSendKeys(factory.accountPage().Street);
+		clearElementValue(factory.accountPage().Street);
 		sendText(factory.accountPage().Street, editAddress.get(0).get("streetAddress"));
-		clearTextUsingSendKeys(factory.accountPage().APT);
+		clearElementValue(factory.accountPage().APT);
 		sendText(factory.accountPage().APT, editAddress.get(0).get("apt"));
-		clearTextUsingSendKeys(factory.accountPage().City);
-		sendText(factory.accountPage().City, editAddress.get(0).get("City"));
-		clearTextUsingSendKeys(factory.accountPage().stateDropDown);
+		clearElementValue(factory.accountPage().City);
+		sendText(factory.accountPage().City, editAddress.get(0).get("city"));
 		selectByVisibleText(factory.accountPage().stateDropDown, editAddress.get(0).get("state"));
-		clearTextUsingSendKeys(factory.accountPage().ZipCoade);
+		clearElementValue(factory.accountPage().ZipCoade);
 		sendText(factory.accountPage().ZipCoade, editAddress.get(0).get("zipCode"));
 		logger.info("user fill new address form with below information");
 	}
-	
 	@And ("User click update Your Address button")
 	public void userCLickUpdateYourAddressButton() {
 		click(factory.accountPage().updatYourAddressButton);
 		logger.info("user click update your address button");
 	}
-	
 	@Then ("an edit address message should be displayed {string}")
 	public void anEditAddressMessageShouldBeDisplayed(String string) {
 		waitTillPresence(factory.accountPage().addressUpdateMessage);
@@ -284,22 +281,21 @@ public class RetailAccountSteps extends CommonUtility{
 	
 	
 	
-	//------------- Remove Payment Method -------------
 	
-		@And ("User click on remove option of card section")
-		public void userClickOnRemoveOptionOfVardSection() {
-		click(factory.accountPage().removePayment);
-		logger.info("user removed the payment");
-	   	
-		}
-		
-		@Then ("payment details should be removed")
-		public void paymentDetailsShouldbeRemoved() {
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().addPaymentLink));	
-		logger.info("payment details should be remove");
-		}
-		
-		
+//	------------- Remove Address ---------------
+	
+	@When("User click on remove option of Address section")
+	public void userClickOnRemoveOptionOfAddressSection() {
+		click(factory.accountPage().RemoveAddressLink);
+		logger.info("User click on remove link");
+	   
+	}
+	@Then("Address details should be removed")
+	public void addressDetailsShouldBeRemoved() {
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().ProfilePicture));
+		logger.info("User see account picture");
+	    
+	}
 		
 		
 		

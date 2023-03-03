@@ -26,6 +26,18 @@ public class CommonUtility extends BaseSetup {
 	public WebDriverWait getWait() {
 		return new WebDriverWait(getDriver(), Duration.ofSeconds(20));
 	}
+	public void clearText(WebElement element) {
+		this.waitTillPresence(element).clear();
+		
+	}
+	public void clearElementValue(WebElement element) {
+        JavascriptExecutor js = (JavascriptExecutor) getDriver();
+        js.executeScript("arguments[0].value=''", element);
+	}
+	
+	public void clearTextUsingClearMethod(WebElement toClear) {
+		toClear.clear();
+	}
 
 	public WebElement waitTillClickable(WebElement element) {
 		return this.getWait().until(ExpectedConditions.elementToBeClickable(element));

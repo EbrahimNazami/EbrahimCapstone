@@ -49,7 +49,7 @@ public class RetailOrderSteps extends CommonUtility {
 	logger.info("ordercancelled");
 	
 	}	
-	@Then ("a cancelation message should be displayed ‘Your Order Has Been Cancelled’")
+	@Then ("a cancelation message should be displayed 'Your Order Has Been Cancelled'")
 	public void aCancelationMassageShouldBeDisplayed() {
 	Assert.assertTrue(isElementDisplayed(factory.orderPage().CancelOrder));	
 	logger.info("order canceled successfully");
@@ -88,7 +88,7 @@ public class RetailOrderSteps extends CommonUtility {
 	logger.info("item returned");
 	
 	}
-	@Then("a cancelation message should be displayed {string}")
+	@Then("a Return message should be displayed {string}")
 	public void aCancelationMessageShouldBeDisplayedReturnWasSuccessful(String str) {
 		String expect = str;
 	    String actual =getElementText(factory.orderPage().retutnOrderMessage);
@@ -118,15 +118,15 @@ public class RetailOrderSteps extends CommonUtility {
 	} 
 	@And ("User click Add your Review button")
 	public void userClickAddYourReviowButton() {
-	click(factory.orderPage().AddReview);
+	click(factory.orderPage().AddYourReview);
 	logger.info("click on add review");
 	
 	}
 	@Then("a review message should be displayed {string}")
 	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully(String string) {
-	String expect =string;
-	String actual = getElementText(factory.orderPage().AddReview);
-	Assert.assertEquals(actual,expect);
+	String message =string;
+	String result = getElementText(factory.orderPage().AddReview);
+	Assert.assertEquals(message, result );
 	logger.info("review the order");
 		
 		
