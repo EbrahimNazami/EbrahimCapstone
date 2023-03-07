@@ -1944,3 +1944,21 @@
 2023-03-03 11:46:47,008 - logger_file -INFO - user click on edit address option
 2023-03-03 11:46:54,738 - logger_file -INFO - user fill new address form with below information
 2023-03-03 11:46:54,811 - logger_file -INFO - user click update your address button
+2023-03-05 08:40:04,698 - logger_file -INFO - React App is equal to React App
+2023-03-05 08:40:05,193 - logger_file -INFO - User clicked on sign in button
+2023-03-05 08:40:06,510 - logger_file -INFO - User enter email and password
+2023-03-05 08:40:08,543 - logger_file -INFO - User click on lognin Button
+2023-03-05 08:40:09,270 - logger_file -INFO - user should be logged in into Account
+2023-03-05 08:40:10,686 - logger_file -INFO - User Click On Account Option
+2023-03-05 08:40:11,042 - logger_file -INFO - user click on edit address option
+2023-03-05 08:40:18,893 - logger_file -INFO - user fill new address form with below information
+2023-03-05 08:40:18,971 - logger_file -INFO - user click update your address button
+2023-03-07 08:04:01,322 - logger_file -INFO - User clicked on sign in button
+2023-03-07 08:04:01,417 - logger_file -INFO - User Click On Creat New Account
+2023-03-07 08:04:05,640 - logger_file -INFO - User send the follow texts
+2023-03-07 08:04:05,988 - logger_file -INFO - user click on signup button
+2023-03-07 08:12:41,586 - logger_file -INFO - User clicked on sign in button
+2023-03-07 08:12:41,710 - logger_file -INFO - User Click On Creat New Account
+2023-03-07 08:12:46,139 - logger_file -INFO - User send the follow texts
+2023-03-07 08:12:46,432 - logger_file -INFO - user click on signup button
+2023-03-07 08:12:47,285 - logger_file -INFO - user should see teklogo

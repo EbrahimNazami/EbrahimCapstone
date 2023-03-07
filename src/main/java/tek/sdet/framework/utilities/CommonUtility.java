@@ -31,6 +31,7 @@ public class CommonUtility extends BaseSetup {
 		
 	}
 	public void clearElementValue(WebElement element) {
+        element.clear();
         JavascriptExecutor js = (JavascriptExecutor) getDriver();
         js.executeScript("arguments[0].value=''", element);
 	}
